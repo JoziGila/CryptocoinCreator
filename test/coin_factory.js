@@ -36,4 +36,20 @@ contract('CoinFactory', function(accounts) {
       done();
     });
   });
+
+  it("Account 0 will allow 20 additional tokens to be spend by account 1", function(done){
+    coinInstance.approve(accounts[1], 20);
+    coinInstance.allowance(accounts[0], accounts[1]).then(function(result){
+      assert.equal(result.valueOf(), 20, "The allowance should be 20");
+      done();
+    });
+  });
+
+  it("Account 1 will transfer 20 tokens from account 0 to itself", function(done){
+    coinInstance.transferFrom(accounts[0], accounts[1], 20, {from: accounts[1]});
+    coinInstance.balanceOf(accounts[1]).then(function(result){
+      assert.equal(result.valueOf(), 70, "The balance of the second account should be 70");
+      done();
+    });
+  });
 });
