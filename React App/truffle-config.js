@@ -4,7 +4,8 @@ module.exports = {
       host: "127.0.0.1",
       port: 8545,
       network_id: "*",
-      gas: 6500000
+      gas: 6500000,
+      gasPrice: 250
     }
   }
 };
