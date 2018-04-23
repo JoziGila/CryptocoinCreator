@@ -7,15 +7,18 @@ contract Coin is ERC20{
   string public symbol;
   uint8 public decimals;
 
-  uint public supply;
+  uint supply;
   mapping (address => uint) balances;
   mapping (address => mapping(address => uint)) allowed;
+
+  uint public creationBlock;
 
   function Coin(string _name, string _symbol, uint8 _decimals, uint _supply, address owner) public {
     name = _name;
     symbol = _symbol;
     decimals = _decimals;
     supply = _supply;
+    creationBlock = block.number;
 
     balances[owner] = _supply;
   }
