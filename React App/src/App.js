@@ -215,7 +215,7 @@ class SingleCoin extends React.Component {
 
   render(){
     let containerStyle = {
-      border: "3px solid red",
+      border: "3px solid 	#6495ED",
       marginBottom: "5px"
     }
 
@@ -331,7 +331,7 @@ class SingleCoin extends React.Component {
   }
 
   transferToken(addressTo, amount){
-    this.props.instance.transfer(addressTo, amount, {from: this.props.activeAddress});
+    this.props.instance.transfer(addressTo, amount * Math.pow(10, this.state.decimals), {from: this.props.activeAddress});
   }
 
   getBalances(){
