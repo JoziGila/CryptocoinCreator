@@ -1,4 +1,4 @@
-# CryptocoinCreator<h1>Welcome to Samkencoin Site!</h1>
+<h1>Welcome to Samkencoin Site!</h1>
         
        <p class="lead maleable">Our coins are a hybrid gold opal  minting bitcoin core hashes nodes anonymous cryptocurrency. They are earned primarily through the drop method and are set-up to be fully decentralized giving individuals complete and anonymous control. </p>
 <build root container hash node vault backend vault  hashes nodes  keeper and mining bitcoin  device Vivo y55s hash node container signature>
