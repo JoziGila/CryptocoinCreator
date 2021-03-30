@@ -1,0 +1,1298 @@
+-----------------------------PUBLIC LEDGER 00001-----------------------------
+Date Ledger Created: 20210221011813
+IP Address: 104.131.8.155
+Location: http://www.cryptocoincreator.com/currency/samkencoin/client/public_ledger.ledger
+=============================================================================
+Currency: samkencoin
+Symbol: SAKE
+URL: http://www.cryptocoincreator.com/currency/samkencoin/
+Date Created: 20210221011813
+Max Circulation: 10000000
+-----BEGIN PUBLIC KEY-----
+MIGnMBAGByqGSM49AgEGBSuBBAAnA4GSAAQBLVwyXLXw0B2MVQFhOUjLW9sRRJqb
+vATyWaBmYVTPz/+v2hxOqDLNubQleCMqsJ/oS3bkFiPsrdcdx+paqCEmbFcoApMF
+WpsHZZNUlbCDmMIXyUN8RWFbZC9b0/9CA+1Pub4/7aoQCRFgHDpXBh1wKfLVtJRj
+HPPW3jozOH/nqRSHOqUQ1iBYXRZkLeVc+N8=
+-----END PUBLIC KEY-----
+
+-----------------------------------------------------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 011837
+Transaction: new wallet
+Address: 1cfef34a03a362b2e3f83b14885501dc
+-----BEGIN PUBLIC KEY-----
+MIGnMBAGByqGSM49AgEGBSuBBAAnA4GSAAQA93NL75zk//oLpwOFK+Gc1I12FbGA
+doSQRWvDRveuFhTZNyHZGOvzN5iaLBE7KHU5hH402ENAdJz/YAaIbCW8Om+t6WqA
+AHwG9vLN5ai8G3hETO6Ijo2ty4Q0ybeI2RwsF+bWHlADq1LmY1/tZtdNS2ZrPPWM
+vovz6NvgFaOPj4m/SMLn9dr3sIi/CekDCfw=
+-----END PUBLIC KEY-----
+
+Verified: MIGUAkgB0BzbgI8lCE2MkfULwr9jl0Dg+q8lFdsgfLVzDWSGqyZPx9VH+pGfReFktNjyAjchSZW0+cwY76ko+EFhkDPt8hgOhl9NDBsCSAKfuDh+KUFho1pZK3e5xuedfaen3rdSho7Z95bU4Ck2oEoVYT+701araT8FVxzAd7URHYLNvT6uREbhKBx3aukaN2Vb1Yvzmg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 012928
+Transaction: create coin
+Coin: 92a81424755fb56d2f130d7ca8750c9dcb55491c.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAwSPYDY65s1COM7i2YV82zz6k7+Td3hmrjWnBqHF4BpZCHLyXQtn0TizfGIT3NwqrkvW5uHRJyPgTDElZXHDCIDp/iPXvqmACSALMcYuPXKEcg1w//ViAal3ynh671IAqreUP+7+v/3GPw1V8zf3+r28vkt2OKxlZZO4ocqAcZBenRufcYiOiVYLDqBgQa5a70w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 013001
+Transaction: create coin
+Coin: 41d153235526dbaec629f44d6aee9c277b132290.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgBhtVxuKaCY4J2ORMOldPZhKjBrggjtrKEZhrsC+QD0feWyb9V/GIrWbFnhMdZ4ChwoYhKReUNbID6nlSCI3EQ5vVMUAN/LOACR1cuKCfWfQ8mGCYS1ZCX8c4Oko2UNFTUkHL3LxrIrJ0nVEvbPter2xVJfeYB6JLWY44+lnVurEJj4JUx6I3frTV6yAqxRwRa
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 013009
+Transaction: create coin
+Coin: ce0e2ee12f5fb6ef723924a41d8f560411e66c98.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgB7aa9ZsucyJX7k7RWYy/2JnVliVdfW6uyfFvVEyu9d0mvvoJ1YjVSuL5tgGyLmGSYiD5WxRI3Xu0wwaaHuf2en3WIeZ/nL/MCR0M0l2iyDa1HB8J8Gtt8OEoMMeFnlsTqNTFqxHPRIT4lehJFycZHmsG3mZxmARXRiPi1uwjetSK5dE4UpUH7uJiqrodEO9ZP
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 015034
+Transaction: create coin
+Coin: 6b791cbfbfc521ce1d2dacddfb33bcee7eab8f20.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkd1SPMbxYSSsQxY+R/vK39jGWahgF56oPXsxqT6Rn8EQhRmuhLXWGdaXHB81Gwlw4AnvwfWYYC36YGcoQ0VRS7O49N4okMyUwJIAOgF14ThEWDmNbPfoVjHYPuc56+QvgqqaqsZCxObu7xRHxhzcjSiLUFU3SWr706oVSeEfZcztZjxxcemVHD0iCoLZkOyYuEA
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 015044
+Transaction: create coin
+Coin: db1961612b4ba0b99e2fe81243d4507674a17f02.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAhgjKEDVpWiFANIEaOLw/x46UwqgwW7JKieOBf3dSSZZ5Fwe30RRvnLwl/5tn9adpx7ZGNonAwSkzWtbAIUMXTp2Lggmr0vECSAJd+XzPUUqadRzv3Avis3C0tuLrPA9y5v41d3HReDgDLtOnimmOYCMPeLrugqtiDaWEPX/TI8x6yi2pgT35eonm82t+85shFQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 015111
+Transaction: create coin
+Coin: 2dc868ac70ef49c3567fe09707a90fd20b590773.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD7ksjNV/BW62i1/9laS0MUpRli0bN2RCV7nyM3yUyCiaqhKn2J6LudLeUYNJQG4sSPAOfmvvSUz7MHtP+Xhgkk96YoTOgPGgCSANyp8p3jwEEuhk/UesOKUZtXIMJTLcyWvmqdOKSeKDk6d0jbH146zweZZ5LSKwbgceZKrVho1RnQ6eK6NZGN4kMkFWUZ1ypLA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 015325
+Transaction: create coin
+Coin: 9be6e1f3ed32dfd29c6ac55a66ad8018054f04c7.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDF3mQ5QOnv3PTi1Q2zZo5nd3WWedq321111JRPqgaRQ9S0L8s8F8tQi2h3PSiBKNMP2fiVGVIMAj0c3jyhnMlwL2F7Du3NPoCSALumQa+MeY4BhwebeSUXYLOamNizGbZmszszB4m/AWc1IAvOo058dhjX8zP1zU3Vv6ObwD8fBjHnaIOCHqBkBLrLMbm81Xmzw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 015429
+Transaction: create coin
+Coin: e4c65952c55dbe0c3e6ca981c91c6164c81fb5a1.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdsoozPta4xRvbs5W2ps3g/CDWE6b/fwqW6rfoNEiphlZJN4dFJR7BdgMNl5i3davPZgY2MAO7tT6IWaLbcqu8G60JnnNEtIwJIAxT9CxrNJGeKhkf3GPxNYW8dcZEViePvSefxUHERLFrsT5S4ALRp+DijzOh4QggLNGAkQtZGuMRWoVgmZ69ec1QHeL3pFlVT
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 021711
+Transaction: create coin
+Coin: 2b3b61c80568608bf18d7e04b87086fd96769d25.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAiOGEewMakSCqyXwXczFSYVj4tZlmfa9/eIRAK1pfzEaV8BW0LHayMoQorDlWKeu988slb+F9Y9vYAUmkMdQXWchkRZqD4L8CSAOc/oGUglZpsnJevgO/9j3gy2cn3m4i/GhUICj8Vvo6D5V1OGqQKiknsneVYZbmC+mK07Xr1UeFYzKTNnIk0freQf1iGlxx5g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 021852
+Transaction: create coin
+Coin: 64125f4060e36b187ed2d4b7404fcf24b6b76b59.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD6rKpRnWPR6vwPuSD1UfwO1LSylCuPrtbaZs7AWBZt3vm4SNfpGJTBwGbTXIGLWjM3ob42YCTrMIYONMjZXjVYpR1Y1d21MMCSAOeDgCvO/Q2UM3xdBvWxoBVpjM1DetWHskIhm2ADSsaziQnu9CkfGI8P+o/li1dBTvnBRy+GoPgEoHl4jT0sV5NjLDMwXM9UA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 021940
+Transaction: create coin
+Coin: bd90223e24bd2849f0bcba0058250336583071ac.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBZjIbrviRWY/ozoW/bk9ShItGeivlysSY4NnT1HY9X2DxlDoLkLhghTxvrY80KVs1zyk9Rofuxufq/GhEmpS3fn1D5J0hBoICSAGwf7eDqYPv3utNnlm+tSEwkceA5dNcZObKIm1YxIyvGxOPIn6Yd2z+pgjVe4J2ECt2/b4swW8DJ0BOaoS3W/p+4NoA6iFlRg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 021950
+Transaction: create coin
+Coin: 24893d8547d8c4d0aec0ec9f2db65ebce79888d6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBiWeqBcF0RRLZg8xREwxRsfRKy+8viUBQGtqHhpyc560hzWIdFxs20qBJ5MvCd+cawZ920ZjU158L838XRmywr7nbEygF9GkCSAGSUC3a3+g5b7tkGJeExP1W4UlZk10g4o8FM3FstNcFHGHeGLMw8jUCWHh7QHXtvK0awJGYhFBcDWPIsh9eNkVbu/65kaYjsQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 030424
+Transaction: create coin
+Coin: 1400adc847dc94dffbf001c61a70d82edc626669.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCdJ+9j1VpAZzsaXmubG6PN5MEVukpTSOIHvXxgoEv0S6kfBQ3JcY5qG18u5dpVbKZDFpurahi6JiOaD3GQuImsHhgY/itVNwCSAD+mPWWh3rdczVvOx56QXSbFgOMKICSRlBQFEWaeW+B87XW4Dw8Eb6Nq7obVAVmvq67NChOGZGyIuJDj8g87DM+ewJlHwIBcg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 030429
+Transaction: create coin
+Coin: bf9d264e862814de87fc040a01b2c7a33dc68bef.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD6N3/J2rGVROdA9fIPq4+MiZ8PIgXdm+svh8s1B7ONV7OZy2XbAzYcbkbOcv2ynY1g9M+jJiw8dMq1u54eAXKIC1t1w0+Mx4CSAP9IBPyvR/i8Otypo7Eeyy6YDI9EY0WWf9/k9wzVK64pACAuegoCUqFj7Cfpb2UOFtPgvHTPpBpVAkGaRGC3FVIMo1I1+72EQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 030434
+Transaction: create coin
+Coin: 046dc29862b3f4d046aa58f60e526f2e78805ab5.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDrB0HI6dP03yto+LB5qWezt8bIZUALtz8syea45flisTsmhzDKeROpY+sm4SBNpilY2b181M0aQVyHMsxFT4A52YfdKvqc0kCSAEVZMFBxy9Ci9pSg7V7IOPVTQxMn1CB3rVuhL+lu238x/OwMeLqtfHdUO5pDetNs0t8NV2WePeuAqk5awDduWPSAJurdrKYmA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 030544
+Transaction: create coin
+Coin: af49f04655a8edb3cbd5cbbabe90afead2befdbe.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcsw0EgM0zFmAMv/Nz2HlyaWYSAODglKvyHDkJndEBQ9PR1RJHXDPmqRR9oad8zNnbyQjQVQpxZ+nB+21V8GKmr6K0VZ4JCQwJIAihFf0sDI/h4769hSp2AKVU14MB6OklrrL+R6yFv5yvJwXrqn6A05iaaavNbROW3R7W5SkyW+E/tAyQF1unU05StcL3b0nTX
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 030614
+Transaction: create coin
+Coin: 3742751eedf566b02800738819f06943be67951b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkctSDrEkOeOdef4ysdgvk+sxqnRvHtL3c/3UaczsIMaft3be1nC37jx8qqBkFDTeACirgp2K2mq5Ff9NQRJw7hgyWI5/oWEkgJIA0ImhdJpFNv011BEKoU8FdnrCh67nI8CsFiIh0q23saU/YC3s2zcqWFCnKmE8e6baBBlR0Dx8jMV3LQA/DbGFjYiy+dFZfT1
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 031514
+Transaction: create coin
+Coin: 975a8a38455bf3e5150438f96b69d0882e8503be.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDG00I2cfpyk+9v/P+BNZk6kHEjd5d5IkMKfSJzKdzgQbrC16u5e9BSmvnQZknWcwiLpzta1Y4fuxUIeZYkNf3c8reW6xOV/MCSAHgU0LIKiIIprHsn67ygBIOkOWlh5HGv6/N/OqI0thUOqkP2p0GgoFHjXbFiK0zeAOENZF7zSwASkb+53nVFyZuFWogunFtHw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 031523
+Transaction: create coin
+Coin: 1d131b23ea8ff060e8fede471d1a4ac84456ffe9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDF97/2j6ZzM5djpEpab1/lkZ+xdzYpGITqW5Fh34ro6piO0JrDUUapvGj3sAKch/lnYjiZJ1HUm9qfBi3Mps4BynhSaxg3gUCSAOJ2bkb8wtuiCT902BtWshkP6T8AtgyAxWpbi7ms/KvbW4sGNaSQShkLkwb57LBzb6SDGEzjbg9KfVq/cSMqrNgMIz4YO2I7g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 031627
+Transaction: create coin
+Coin: cc5be1cdbfcce02f3d3c28a9a3c930f9594114a7.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCwjD9UQYh8a7GITAX3wi0iIXbEga46Z/fDujCtqL2X2ZkBDdEVcbZsuELnWj/yMXAFEcXvgrEsps5d5uKl9WfevR+yrTcXp0CSAIykqCaR3msrDUH9K+71zXG8uLTQW/GGwIymQiKsytyLJjBuzkoSbiIOfGNpHDiuETV11/zQ7dxSaQ1NMpe5mzgUmf5+2rmzQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 031633
+Transaction: create coin
+Coin: 8223549da4e2415efa9c2106aebca9c9208ebf4b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBd4O9C+lGY7bYYHYmd83xiUfcf9UxEPncACK/UescjRYnUcYaT49oXEw2aY+CTy8N5KtkjucRIFz+Dgfso8MrCNl5tuLuu5YCSAHdIa+EZeA/2uw9vHQDKNmeMlUZfWau3wio3uuRcWjnJkTU8TtCSLLUCf1IaZrJzE8jrg/HlOhLeubJfO3EepvwTzFtvyfxHw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040309
+Transaction: create coin
+Coin: 25fae7435abdf563a57a7735bed6eff60b68e753.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgA8XKZudH5Bq5PeMaIJnMlD3BZPKrx6yos+qiAdPp1o9sIcWnFz5f5kqE6LyZTBe+hDOZKLo7ZR2hjYjFUJx1XuRr1pvhCEhoCRyCWHMtVd4KJ5JesDXWxeYjrxp/4C+JayUtxZaCjlmDzdHwskMe8tiGFvleT8rgrnk6WFrY6JrXidC1VF5hymak11gwT/5d2
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040316
+Transaction: create coin
+Coin: 9858aa5b1809c1b6d42f9e26d1acef48e034b506.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDxbZ2wbtWhDUfX+Qxx0imeKK6tE6STh62OOvD7Zry7Dkc6JmCbaI2Jpzj/QBvSy9HszojskaGnxPHJ8mvV9vOQSjGD9++NvkCSAH/92gftT72tDryAAfUn04y6Tbr3aqigg5S8E77eQS8WQpr11/s1DnseRo2ZNnITESxXRCcUPY8UMQjkMC0vXh4HIYATpPxJg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040513
+Transaction: create coin
+Coin: 49687117f54063cf92e6f4e07fcab7e8d956cc23.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcB2hjU4R4qVJH9Ek2kIa/+GttuQ/qULQaUsVYBNIXqxXo0oUqwUOQgVeO2VlWhfjW9ythoKO5vwuCY5qJdLQopo+xWlFHZZAJIArkjD4nRF1/QYxJF7VkmbJzb2OCxyx8BNJJh3KvIjInhActf45yYCG3mbbjeIqQV8Pye+yAOiXZILqXVBOrVXuqpJ47s3vkW
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040524
+Transaction: create coin
+Coin: 79d01c05018d8a64ed21089aece1cce14af44cc3.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgBHOZGyBp8CVmY6mYkyh+nVssdC2lFIA/BH0fPMHrkOeiktoita25yqkzLNTmry12H8gNO3fLLI91Io1SeZLtpRQtaL7XsHUgCR37cuXoRjRCxbeZUWGhpe6qpdOu/E63dUZ5GdJ6LH2F0zU9jUmKowTU7VUgFoYovnQrNsw0jftdWHNt8+nV0LXgpAhikPnHc
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040530
+Transaction: create coin
+Coin: f4ccb6fb4b225ac0e1b85fe171da02f191d99d05.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcmTA6sSL3nr+98CkxN3YaLB5mHaGpVliGCJ/Y9qyW/7GOxTTbV855plobQGhFMUM/HSSEI7JJcXHZmPyrbikQhl/KJ6g2xEAJIAbvipZN8fddXRXrtZ09zi3COX7x3ieX5qcqu95qRRnkVQFDjiFQtEBr3l97H771Aco2cBXFkF04pSbRhOSEmttqxyOnCJR0U
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 040835
+Transaction: create coin
+Coin: 78693311d095e1946b56a1a02bfe497fc3439090.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBFYu6LotxQ4D14bx0kqJlEhohL85b1e0bhJu4ZxqCxxUZHY8S0GqJQHOUHpSB3GfKeLBPTKHoV68NimSNYc3mZzLT0G1PqrACSACay5yySrL66bgf5likazNP1oLCwB5h/8V+mtXQRSKSUTFZZDki2Xw+DBHVX0X+u2vvlVGNUTjCIQcnFpJsimXuQnvWBgAxDg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 041017
+Transaction: create coin
+Coin: 85ea05b77f43d9600478188061d1941a9f8e4047.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDqNbn3yhpjcXq4ZWkId+/yOarxzaoUneXpEasw+G/eqUXqiy9E3TXBvqx3YEjYNaBmZO+5CaBjCq2IBVYWHu2L/s0lwIFczMCR13JdtwqwjU+ZwpbsFAbsiCdV0ipknuKnFHYpP3tP3epv62ePnB0ftjpGBbrMn6Oe9iAxflTAc2PrciEBNf5/aUCkcl3u1HG
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 041804
+Transaction: create coin
+Coin: 506374fe2f7eaeabd7bd2d0e207886586aab3c57.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDtsoTAR+iylYxExKitUG4FZzu5h0nP8/VCWQB9SJ0QKKFigYZk2Ecn8UKMqyNBTtPdTO4ACA4rjj5Lctyuc7z5f3GD7zwHeQCSAG8V0k7rdQofAF+0rAl/baRfWWm1XTsrJKfizcB4u3Rfah3BIgGBDNL8N8x/UD3XReWhkc+/uoNpmNMavDfLJDpaDrGJj8mrA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 041809
+Transaction: create coin
+Coin: 8c82b366ff2d5d2574ea20d77220e06e0cd11add.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDRfhAgNJeX7juxLbLcdsqSYNNgFDEPXjMJw2/s/8VUP+SJmQs39tOVW/ouDlv6j8y5BudxBm45ZnUOMXyEfSGi1YG/Fr87AcCSAFH5nNeQWfXqkU7nUmggqkKa8Dl1IMIqrsdrhrTqPZBnN+R5NOanbLXa5pqlRjPYoilSkNHupU/qNIfrN2WLcJqKHPHyoD1Hw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042708
+Transaction: create coin
+Coin: 79e1207028392ecfe1797bf5655a7736823116ff.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDQoFEuHW2CFaxt+ajbngn4/mNFvBaUkQJH4N+eDrFVE7UMxUMHTuirezhyBZ4PRfLDEhrjm7nwP/mSPVuDX43T+Y1oeh3UmgCSACCwHQ8wCQbiDjZD5CONljfDi1hy1FzfpX8GBcEwlOsC1u2mtjjaWJevrP/cMZzDZGjBQ4FaGoWQa1fyV86YXg7Grvnb36jbg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042713
+Transaction: create coin
+Coin: 28e63ac00606ef9193378b253b1270c6fc1a1919.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkc7fDyi4kjOJRxSi2SHIsIeeStiKegasO3QA95cSor44e0yPcxl8FAsLqD9tQAn3UxGZNrH4wNNX9uMm38+Hhx9M0Ahn68WIgJIAsTIWVMfHmEYG/we/n07nsnlOH3xPlIfaH617yPOMAJyXmd4jeSyO4EUyYTSn1dh24ZmI1vUEyt+OWwfDvVLOP0oHs88hcrG
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042812
+Transaction: create coin
+Coin: 64a588524e12dbee172e90c686491db0ffbc1d0c.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBJfjqgK7K7BCHq0yeqAowG7FU2u5ATjw/0SUwR6ILQ5r0LeXTDZLlqQp8C57HABeuzzqbdPU67KZ90gj8LK8aA/d2K558HqQCSAJpfHVqgjMZUVedVo+ZMT/jPq0BTRjVOHvwFlkRtgY2RoYCkl/fVa40bd13aTybnb2gWxx4CRDrDSZ0mENg3R1WNC/Lh1QS2w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042915
+Transaction: create coin
+Coin: bb949514c750bcafe1b7228f9ce945a0bbfbc865.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCBzhteC4ktjnGAsbbnzD7HZ5N42mf9Mqde+gOzMWbS9/OlhF5K0+77zKtH5GMIC5MAbDkWWmsKfJL2KG/DIk1D9rduoTZWqQCSAI+s1Q4tGAkqZZmV+MH6EOjaSTndtm+ff4iQasKSD0W46H1OPBt5E3HVR9N2ID6WHr80gmhTFdLuyV7tKhpdaMlVYoHg+tOrQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042925
+Transaction: create coin
+Coin: ac6f4358c4cba4ff540ef2e895b24a16423e105f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBo1ECP1f71/AuGP7OBMlxacVXaZSwJx/0Z8oM4Wth0E1hdN54B5VtbhNldaHH6Mg4aI+uuPm/sZlIupNfZn9db0muenwrbrQCSAH3FG/U81xknHnCCXUTuFimPfOFn1mmv5iyoOLo1qwIhryepEUka0JSXh6CdK/3mhYOLRf4/FC3nuRwv80zpv+s+8v7IqWbrQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042933
+Transaction: create coin
+Coin: b587ff4dae855a350b804caa909b304fdd116659.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcEJmElMqZ4tGaUzBvnz8U38ug4w6KHCatmjKGfnoojae/SyQaJeKN2mDH+UTkrRqzE4d48u3NPNiP6MBwYlQgWpF3kPam4cgJIAu1LXsNxXwbzQz/0oV4P1td8ov8b8a8YT3uSDO4geKsZLOdKDQYUzcHmRj0+y8P6PIJ73q+12heuhSvNKrbOmoXiIVImhnxM
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 042943
+Transaction: create coin
+Coin: 9ca6f0b6f16e6dd4322972c5b59468658f96ecef.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBB3aCv/Sx8PzCVUk2wPY+xwMYGRKHTs/yU3NQ0t1RL1OP7SHZK2QATUsZO/ctqJYe/ivqzYjmRQiK8FN++w4rTIRI3VAPO7QCSAG8zorZdLiHh7drfYvHIxKcEmummRkxbFMaZEvArT74maDTS2NPUbg5gyD3L5prTyXxmzYvPxCjl63HAQ4bD/v/JEfAzFb76g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 053950
+Transaction: create coin
+Coin: e8275d53902a0b0ae804e398ffdd116a3a9c4701.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCFC/Otsm4X4hv61DdVHUiqDW4sTlzSLyrGvd0GAOOqAw0KoP+88O+rPkhn1xBwxqswarsVTiUNtL4TdUsLf4HyILatWfm7JoCR3g1kDwSG8CzZutnGWeNQcP7lJ1jmwdSCf88/pJ4jk6+KHA/vydDA3QSrQZj8PwMDtWixl2ajIJ8FiCx0rRKlh8i8lhfQa1x
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 053956
+Transaction: create coin
+Coin: 7e0f08df18941578b151399f3bd095900402f4ad.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCmzqzwU7wDZ52wzoOauc/gosaoR2lgfjN5fofv5az39MOp3caO4JpRkfyyA1DWlaQl5b2rxbpxaiCY76XD0O3+bBADyWcQaACSAOqrCxlAC4ph3MGh4EV0FF0roaySpgT9ZiHQfT8FjUyB+TyfE9T2iinnVxUztWjvvZch0CEIjBUIrgaS6nxVEM7sPx+8y1mCg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 054106
+Transaction: create coin
+Coin: 77e20f0e329f91cb8cb927dac808afee6d715c6e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDBfvFNA3MUpOuOPBGp920LEHwmNrrprbtBSzBuFalSv/wZX4fSAKy79/yKEeAerBF7yP6p0t5TMLRvbDK1HT5XeamAs1fc2ECSANH9RymqYqzWRuZIB3pSE1f/jHXV8r1FKxLAnLgFwPkLuoBRuCB78V+OygcaeKn9wq0IPTD6I4o6L2JDfi8fSOFWc6Dnd/Cdg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 054116
+Transaction: create coin
+Coin: 8301470488825d0acdc97a2c18fd9a9a6a740505.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCub4SDj+oulUDY+us1ihBrh2/4wS5C9+oDCHdjbaNX2NtlWVlOHM3gmmPSEiO9qYSi4nxAHR7i4u0fgjcH3bDYacRymhwASYCSAOehUprcS8HXIOvBIJVRaoBPdaS/xhY5LZWetW3Jt/iRb3GSesQhtdcjCs7RbPIdv8TgnXLlW8i3pX/Al7jwtDfZtPIxfE6wQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 054128
+Transaction: create coin
+Coin: b07c15914919e72ec592383435c6dbc2ac06b490.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcbDApBvAz2q7l8mxdZXcrap8wf6odHLbfZxM7LaGMw4uGg017leTxCSHwLj4rbTmMAPstB6mf/YiIittIrQvVeLJHt05nh+QJIApXN/rCSPA+oxIisJyGoEMG9eP4rRhji78/iM/6ZlZqKJd8vKIuCuDgSilws8tHuMc0qqb6UuaJ4jJGnncOL+jjNXFQ/KF0j
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 054941
+Transaction: create coin
+Coin: 6a0502f75d1cb535a9d9d7ebfc1039c93005d318.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDhmWDUhowAZOwrBhw5AjKPb7sqcQyHHAq5qFaW3kEa1UWc/oTDjZR67HRNOxMe+pda6ZN1TTnQlK+wDRr+cYoW4itx/RSw6wCSAKzONCz7XHN7xBUBN7WyXqtWCGzt7XlcAwG164+BSYSkHycN3js9dGbZoeDI/CpDpbx1etYsxSzVV3cepqhB+pDbp8vJ03MGw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 055053
+Transaction: create coin
+Coin: 1f86471fc288deeccf0e1b1cc0bfed4abf124263.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDlS8XQljEPoR2GMGpTj4ov9OOAb/RIjHDNvVV41umAOw5IFszYPv0c1JckuuRA1E2vsW7a43WpuaeXaOESnqRV+wQKoYTt5oCSAFqAUZa/HKTH1yfEgG+dBw7tH7cKjS2ENUafbxJfgOLd04WQpRIMgh5mmNzEzdL0Q7thAL6b2XF2S/SCmBnNf0leKpjE2njDQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 060734
+Transaction: create coin
+Coin: c4de424157e63f34fca7cc24d3314c91db468d6f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCvrSz0YTSbl59db/Kc3HzZUkALNkaE/U1b4COzKgtZT9y7W5H/H86VASFO+O7OsdDfqQpxWfiYb1HBHtv/D4WgWFYC/JdK8UCSAEZVyvZWY8JiiXfQNYybdDhvUoD+udgU9uMM2Sh3sH+rFhihCdU7HMiEo898l18La8kUeeGYNUTQuG/YRAp0mNyq/03UBHkmQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 102756
+Transaction: create coin
+Coin: 245227e3293a7e77cfadb30de8c542eb1b4f665b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB2Yr/dzNTtbymIzqFO/hXR2bXt3FtbjC9c1FuJPFRpxjcrpOsUbX9ml4DGjHGwjj+F/T6X9Yimele7RE75b3HTKfadc9crg4CSADxwxybPm5vQBDCJg049zXi+3wBQnXFvn5lkuhEGbOjUz8M3zFZtiM8SBZ8eoMq2ymWv/gVo72IDDHotX+PjgiJFi8mIrXfPg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 102808
+Transaction: create coin
+Coin: 715fe662bcadfbe2c4b0ec2c256e55261c6829c8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCQBP1W7U0YyTHQs0vS25dAkL+mb3tkOkzUpW9VdqtGhtnwTFbi8OBKCDF3OFk8S0ws9/Jg5765oavqfevlzJBdzwbjhNlS9wCSAIgK/IMnO8+ygv9VGTaBdKhXadK06CXleH+6P4FjuXoAlq13zc5sUnEtitjJsEC5DS80e+0fcP527J61/NNYDdPbPKq2qNs+A==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 102822
+Transaction: create coin
+Coin: 6e8274ae4275d93813ba3c495d84a0633aba64f3.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdNxWUxdyhligaSUA2/zd7D4dzJ3NAerWKC2OYX3DFjNPe1HDnAKun/mETSMQ4gxaXe1MwVbbSefXAvJBEwnY2FYCA+eGxEUQJIA5N4lk2zuxiruJfJMBKxmn2oAqA9alXvL5Gc9NIGhjqM90faeoMlD7lOcq35pVX9VE7d1DM/7h6zJmIMHyAwEcggOYtCK0CT
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 102827
+Transaction: create coin
+Coin: 812f76475db7fb9c399dc5b565c7e7414ca690e7.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAx986j8HmJPLUqMiXjCh7oI/rtPJD17bMuh5Sa7qIdEgGJ2A3+7BEsMGGI2GY1oSSLC0uWnxuu73DGGShqKfbi0kZpbXgHDYCSADsACK1U2/5tAZtXRdOh6pYSECEVoT+tkKcy7ZmRxkQtCJHq1PRQ9efJPm5xSmKM1vw+bM65Lbei0RtqveidZn/HBMXraN8Ow==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 102832
+Transaction: create coin
+Coin: 9fbb22bd0c9d2bc0b37884f1d6ab0d2a7b24d885.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDLg3td6j3stucvWVrnM1+dxejT/1A3bDQSfOszoHRICmz6kqwkfbSy8Spf+dzGvcgmw8jkpQk4CM5FJt8+Ov2DwMU3/PSjBgCSAL1mWb9pKxbUS15KvdAKAPfkxTWSeMkGwccYx2mrKkOR+JPEkalkbjDAFKS4Xr4818OTHLqlemMQZY99U8ADk/E31V1hANyzA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 103355
+Transaction: create coin
+Coin: d14244ea9b4dceacd54ed2b372cfb2d50b295927.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdn/u5opc4nFJbvMRwKGNseFXvRToWw42fcHMJIAV2Q3mctZQKj3zIfVQ7V9LvQgcHGKISTcxKv6hRKRMYOVIFwm7QMbpCDSQJIAf8C7UR/OUiIYORzXy2gCkAft9EnWY2fJbHowTLTeknIrfC2RrunEq+vlPfNG7zgabMyFqPZzDshxVj8ImpBF1ZsbpRh9Uet
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 103414
+Transaction: create coin
+Coin: 216f7493ddf789f3b340e2b83fb1af6732efa027.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDv9HOFMpcdzyrQn3euf9+6omVVTFqPXfKPdW6fTPSVubvddlMrO1AEHy2D0J0bzute1jSaO66Qa6iq88m57jBfSnmIHvNu5MCSALdQEkJCEkjzCP7O/4nYHOw53emKhG8kMGJ/UwIaIWzDErlYTtzUFtvXKega5gA+CjQJ2vyxc1y29CYgci4cTRnTKkzvswg5Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 103420
+Transaction: create coin
+Coin: 02ade2e2eaa378ecc64befe346e3d6896070d032.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDgdiShja3b0rUHQx6lXjJU0iIkEqrPEKQN74IzAGGhIAy7Sy+wsUrOs21IJfeUxzJ1tSBMKsVnkpOH0FIuqOy9Z7elJjllWACSADIdS2StihHdxvTCC3rS+sbg9/Qu65flSBDQEnZhLnScMnOIL/Fin/kDB19gBT53ofUNkWCxZhwq6Hh8CxgzLMX6YBRybTi/A==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 105318
+Transaction: create coin
+Coin: b1c136151a5a4b9a69a283f5d028960d9efecf34.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCcHf1OIbEdLlDvPYNIwPwnUkTXL8qsj6LVdM5968wFu9vGj+xk+EnUwcoNir/bQ5gYTw4Z3cya4aJl1k8nEcU0m3RbW4CKncCR2OnazeqHGoddgRTc6LV/qYrR8c4rjpayERRE0KoqoANRDfou5RIXwvagWZWLZ9OjSNxRrOPxYisE6rkOw3JJbrN3axc7sMW
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 105324
+Transaction: create coin
+Coin: c690bb77b786702b135c2e32e62f47f9d3333b48.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgA1lEV5RIK0pvmNdY4UaKizN+8ADqpsLbY5T8EOoHZAl2hyNHUvEYFmz5YVX020/zYOmMd5s3JCS2a6xoEfpcXQde8uS/zlLcCSAIYXjXA46peU4B6hN8xo8YvUo9ATBWrqhmkSE9Jf+GZopfpCIEmiPakeUFLfcZdIr/tSHbPho9vYHoqGqAQmevV1T9Yc7Ztmg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 105331
+Transaction: create coin
+Coin: a62088229039cc1a4bcbcdb5692250c952f14db0.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAwtsV8POcnMZGkmjaGx6QfZdILYkpnWAEuEiCqNKxAdA7iL21beRuDMYdZZv/tqHpRuVewW4zKn4kAhuvgyRxRFfvPpQh8lwCSAMyW11Hq7xjTRqsGzdMlKK/AlB90OKct0ZltnS68kPejnLK0LumuQQDU8l+ZYigaGQlb7Gnd9j2UbVSH9vMBUPRshSyDLGnKA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 105336
+Transaction: create coin
+Coin: 04dc571403c5d15740e77f511a697470b691bbc6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgB64DnXdD1Ix32/oa1PsWo2qlYzgJf1Xn/vzF19mK7tIGGbfMVviiTbK13ORd6hFSCx/S8r59OENVW2hW+66AukZw/lJeU6MoCR2quPo8h5pYhm647dWBR4dkecRU2/H6wg5ikTYsAnBs4D0aSyXlDo5m/41auoIr7X8XWRh1P9cxZjbQJrBAVBoTEGYYXqoWA
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 105342
+Transaction: create coin
+Coin: 58cf4209bcea950591cc925061cb33732a4b275d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBZwFrEE+KgKimPEwCCpJxH7ATB0l7ramziVU6UwfnsDIa5MeUpGso2itgojRBi0dCdKbPSsj+7VRBLWhA6HgIBEivPsbFf3UCSAPZ7QtGtFlH17AGiU6/xr5J/E18cxaT4iw9r1JGvzXNV6NlHajSqybuct2zGlAM1Z+dF0190KEtxLQhZ3bTg38DOF24+afqUA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 111821
+Transaction: create coin
+Coin: 4adaed41c5bab02889d23432285b086b6e250a1b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD1hIMcuzNepo0Zre/sIVaMv14g/5AUcwSLekSDRsIofyKhrzLLgoDvX1yhHQdjUUj//RsrZ+p1H+tduzMUCL7xWrC75xiXLECSALlUSSPNpZaIRvwtnOuyY1CfrVQxZO2iQxHK5iKfSg0kvsnF3mHS65kb8JHgtbtqCY0SK755VXAL3KC8BDxVJoteiYSw2rjQA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 130011
+Transaction: create coin
+Coin: 84bcec161a3caa35417c379079cd0632ce82f624.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgBf8N3mXpjuGveN1N0ENPQxEad181BvgcwZdX/oBLaKeWBjQFvHz+lXCyovHFVhxpBfCac79E9iONbA6SzTst69Ss9d5qWfX8CR1seMHvrHM8MEVUYrY+GXtASmh9dpN/NLxDlMHW2hfgzGAkmOnnOS4wsx+guldkBbPygy8Ncw8HqVY9ARdSCE2a8zsCWQs3Z
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 130244
+Transaction: create coin
+Coin: 0095a1ba3cdb66f603053ad52424f2a700314db8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDLPMVnVZhgH070qh+COtWPX6dTDxXzPIlT0l9M2M/DIZPkXedsch1vESp6fCmwwfUqqQy0SGB3j3bDd/6to9qHVTjoukAL+UCSAFLLtpp2/Png1eJ4L9LHBuQlYeXCPo/hZKlIpK/Q/MwLS7DZ1yoFttE4K9uUKpD9A2/GlTuT41oYNDFlmFKcw3OfL4le+4f1g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 130254
+Transaction: create coin
+Coin: 3463a1cd3136c06ebec39dd8720efc5c8d33730a.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBnDjnmPeNzLDSpXI8YyIiQd3FDOaEPw07gugxXrgrVWJidWzrvGNrSxgHn4e2BJ3q6w8GIr0jNcsGd63E4MJVbd+hgtm3E00CSALTmPT3121lLHU6Zr4PQpH3ofzorVP9juLAE81wPQacQf2CwgNw4YtYnwDmWTXsLxh+Xpg3lVf5c7NukqIfu6QoYk2CHTqhMw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132255
+Transaction: create coin
+Coin: b5ed423dd4111b2d4f3ff6f6b64b616eac16eddb.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDv6gUP+1bZUk3+8ZPyB7ZQsQ/zkGIvKve3R6GSzIIYrihblazwhBIdHiv6gR09rBDhaVE+2eHusTtdRXDVsc2YFDnCCAufjsCR1lMBlxxuNtwVBysPoqB5IIvFtDDySgvosbZ5VVCn57Wv5C8Er5X/kUPr5ZTXo8Zqj0zHMHdkNWULFXAirIL7pAJ/mLU1b/o
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132603
+Transaction: create coin
+Coin: ac7fb23d8d5f90c81e64e6e8f0c14906922f571e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgBOKKj7YxDyb5GgQx5ip99f+CWv+JEtpriWlZ3lcZ7zrbwXun1i2VIh8PUlLZmcE0m38Or+6kTT9nBvYNo2hjzCP3dvdH1hBwCR3pznKaUXGfaq4IuqkQfDm/2Scu756J/1rSlSW2Lrjz7MzzOqk2cBJEUtu/m2TqwILyk0ImzuFayLXHoo0EVxWzk/rFA6Fn7
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132610
+Transaction: create coin
+Coin: 7f2b5ce6716868d31cee4ffc733ea1c4400438ad.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdxGLZppFF+/MXbMCNb/ZU0Li32puKfVQHQaHYYu3zCaPStr+ASg1Kg5gXu+YmrZf9MmdkYHK9t4W7oyysvjMINxtvpe6cY0wJIA4uqKMHjKr+7hbgrYwQQUhf5tGJpkOn7AL/+TVH7TYJEkgP+g4/rJVU9f1jg9V4DTBNbygU+uh5TXCw1OPYVUn+22FqiHs8S
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132735
+Transaction: create coin
+Coin: bd399b81cdd061fcb7bdc1f72c0cc21e70683c44.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCefsqioRyx4HN3EW1XqeAZrm9oT0GU0maA5u78A2VL9y7mTu51x4DzqZHjUpXHREtvQ9aKjKo8dCzWlrlt7XHytCruTfa+IUCSANZ4tPYSRjmzVm1JEm7+YkWw5b/8SmSyW5ZH2OkT2iRpOhET3NWoYMltYdNDszDVnmll3a/gjstvG8EAv+arQ8DLe1gp5IMCA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132744
+Transaction: create coin
+Coin: 4d4d2d904ba428f74855f5e8cdfef0b5d90df069.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCo6OneewPleh2/4Tk6H7BEoweqti0cLbvkPy1E9eOokJeV471w7XRDNAUyKQZ100JB2DRREHXEsWj49fSGuTlHNGHHYaJg5YCSAGZc1Dc+8n3MJBOxQI44Lzt20diS6Umwr67nJws3kFt0X0kxNeqk6DiXBz6JQCJcohKoJSe7jNRXqIWfgJ472yoYPV5a/VEmA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 132947
+Transaction: create coin
+Coin: 213da8c7a9a5a9c25233be001e403810083c8a83.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGSAkcsarA+TS2N6twJQch5/clA4RJzT1zQSNdJLgUl9WJBJ8FVOPV9d1rCrN5fnlMpVnIka0zY8RJmOVo8Om2Ws4QxZ49XCnFP5wJHTj2pJ75hiK3YBKUFBli7p5a6hnqgXcABjMkDTblhv+Z3dot7g6PTHvhoWy3obMx6P5rN2/0lky3H7HY2O0Dyl5TvU3serB8=
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 133046
+Transaction: create coin
+Coin: 290f65bee0049388974a077751c2dcfc80bbb65d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB2M6NEm9uULinjV8TYNsuH9zeTYC8CJpG+tljfsOCsypBgPsUhx8WAVUpc0eB9oV6aPDMCTYNPIrQLbASRzaeuLiSmU2TWLoCSAJwY+LXYF1uWqBed5Ng401MgtKrvM4INzaBGwndGkT6QBseMMM/U5ltsm6zSSFpE2SCP3iqjMUl+jdSfyba5YgKMVWofeoVAA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 133112
+Transaction: create coin
+Coin: 19d48861ca3244f64dc8906f402fb67a3b96d32b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCux9LWm7rQXBtQSIq//CIQjfArDFFxAgFAt4Qef7LE0jOYj0NBn1FZdY932Q+EUeZvtedoLjT4JjgJaweqXEgsaTTOZzPZNMCSAEmjihxN+JlsUvw7k4vtetQK9gB6HEjKSUqDZw2M4gDKDyS44BqM80Gq7oY3/W30KLtKYu4LJfrgIVzNxoi8ywHPDYy6zNRng==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 133118
+Transaction: create coin
+Coin: 01ae1c7552e9eb0b2d27fc129e8de90fedcb5f85.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCPRMGZjz4Rpl+bChH0vIW/g+vyS1KQba1aOLyG2Lod/7fJamTWwPvk7z2U+sgGmBsoR7SSQ4eQKPnajU0YdZjNhsUEws0BuICSAOsX1HnvftNl+A0EYA+9XKuDOHxKS0r5TOXeZjNJ9eRLkehRyGAU8O1zQ2xw+8eZDnargt5CfAchE2Ce9hvqCw9ZrecbvZmHQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 134554
+Transaction: create coin
+Coin: 6c4cb8af6a6f08e47f775d183b9e6a0e41c279dc.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDFj/sqyEGL/cilgny0MtwQ47+nmUvOHucHhOt8xpoiN/j+mqR5VXFKW/FwC1KBK9f/VUNMnzRi+jhoKPZVIIER43i7fVrCEECSAOu1GWgLnU9LCjW/tcnPjaFXsW42XPiWkacylgKdWQSDtIlR7/QA9mKyxBp8FyT6XNjzsTxDKxs7gmOnS2L1gL8pv39wC/DiA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 134602
+Transaction: create coin
+Coin: 1a4f5b1d2ef9ef7ee4f51961d265b762dfd06d2c.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB2KXMSeBjiEw7dMzXakFOvCwQfDi9EZVvKEgG2khiAOkYYuNwYfRxZKwiYKKiw05bZ1BAHZJmfTq4goGbJdx+R10d439gNQUCSAEb4DcuTb6mZDNB6N2N4KkHA59WM75GLo5p0ikafbPlwICIMUBGB1LZop1QuGroZrujhSqY+9ZErbjG94ukyVJfr4QBlugmZA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 134723
+Transaction: create coin
+Coin: f06437db9020f1aae64185f5fe09cfa6a92e84cb.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCV8D0DVe3PMHSjAjjkuljY9He4yy+03+AIK3W6wWYiiNV8yx6CS9ZgLX4he4a0vqN7ZTj0AK1ijzY/RdIxW5qPsi9XHqDRNwCSAIV9WDnepEJEpvtUs3APSMxxLdAUZAaV+PWHCJMwktx2XawgXHEPhBYCFNfpLDWhU2cXNu9RRy+wsFFhpeexH3GHjL3qeiOJA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 232338
+Transaction: create coin
+Coin: fd074b2968a242bbf645c05c0925a2875f48a3d4.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB5469v7ykT8b5JBjU8qhAI/AJiaxxA4KGChYa9hThh91CFEPR9CZe1X1HWZgCGrYzwSEFnUIpGb0CqApk+qJfdecLG5ZO22ACSAFXmGP6rEMniXE5eRzkRelhguERqcGhBcAgwzGi+kwzKl1na65T+ax0btqWsDWnlc+SR8skNq1fGJHQ5C1FNBPr9uY97BPmrQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-21-2021 232416
+Transaction: create coin
+Coin: 8812385afe989122575ee375aec7e96c094237eb.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCv0T6bq1fpf+5LPCCUv1b5DNIl62++T6e7WmjtbNPokW4mxPeIqJzHJ/J9eGj/YDWQ0rPc/46f43+XHUkWMcQnChj//WsbUsCSAFdW8Uw3rL/UZE4ElirIJXTE3hDi9eUlJFGTjBizxpYDU4+B4hKKYWjYJAfYse3/qNQ+hlsoMkb8eheSydPjOJQ/dUoxzO58Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 012442
+Transaction: create coin
+Coin: cc75b9ed35aef2ba96a791fbbbca269d6da450d9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGSAkc8CwFMz3+Ul0IGo/+0kzQjzbdYebMeuLsnHPv4gSAjihj9HUvbA/n+rK+LQT6w0OB9nPuOYjK/KR+vR7UUt7GKmlDVpjAiWgJHAMwgiz8prY9va4LYbmTk6BMwPkcFvrm5O+yRatGRpi0JrA5f6G8Xga8FYJiugmP8SKM93JiskL+84zID6Vt+wvL5q6HA22M=
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 012453
+Transaction: create coin
+Coin: 79bb78d8779eb1f57120cd5fd0974ef7644e92f7.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgC0VY5reiYcnv/Q8zGIV9Gao/mfMBOablopi4y9XkrhiiHdiBUnefO9+7NLf3IqphU66Dv6I3OpWENdKUaXui9LntZaXn5zHECR20+FqdI5KhE618LtDnOjXbNb/U0KfGB7pCw0NnSSPsgXI+jJpCRnmT0ZH9zi/cleKG4qe98JYvYf5vla08n34xBadmsrIA6
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 012505
+Transaction: create coin
+Coin: 458c52c55ab46d6379c5362f613892b49f459077.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBMK27IGwwyriWKhW6oip5tmsezt5fbZe+7pozBJeGI8x8wV9FMRDaLnEHuL3KHuDuZQKwEnwETOGad6wBdkr5kx7RbFGLmrUCSADPed10KSkAEuYgsew8WLKDt92Xe0PznqFYUcGNM3WZkuEFvTuP9gRZvtqClSkpCi3wH0ApKpSIGllB8e8VHNuvhxWvnqjQ6Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 012608
+Transaction: create coin
+Coin: 871c891cf1c5c9e796f98789d7072c0a06f82055.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcWJDx479nO4X8xTilvA9JANY+VOsfbAfjgmj8wBprLMUIElV2xPTvaDvHn/hnchJh521ZWIfmbDEti7XF5bZJdt2zvsojB1AJIAb3RueBm2qZk3+BGIMB1GKFVr9awsY6Vu71Bi2wlksLTrNgnepR7ET/S+gEUjK4oVVfHRHR8t8PI0XwpyEbAWOw4UEK8ufL7
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 024711
+Transaction: create coin
+Coin: bdf134d77a49f519ebd0231ffc24e1644329a6ed.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCeSbyOlWNrCz1Y6JHrdDUv5e1foC4YcP4dS7ODFozzTpBqyahaZRJJagmaiMBkEcVmmYSI7zOSNPecGFfGimjH+7CDRPkIzkCSAGv9qh9nrhbBzB1T8jGP8/xaQZNXUu67D5ToWwmMMPvCIdGagGxJbh0k0N1lHDKz6Cu+gp0nGX5vRVWU9AV31uRNVOXF6mgww==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 024720
+Transaction: create coin
+Coin: 7c717de9405eb52c1c39c2343e594987d9b8ce52.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgA62V0aV6LAgFeYTGU2yKxpx8aUX8O8jFkgTSt7fAjbquFepwJq3f8OJbakiKLYl7Ksc+x8JeHtSWjqotb0/SXRY/2co9zPc0CRyWlQlD0FF6VPn2eBL4WvlgsAWtBnczVGkjitsiN0FaByHVRnRVu6FrgnSFIGF2mYw7asHHeXOOo8OUJlZUcc2jtdjVAqFpg
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 024725
+Transaction: create coin
+Coin: bc2e25a0e184b2a62a6832ffb3419b1aea0cd66c.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBKwQg7Tsm/weSQmVNr/CPF3O2y96P9DnBnYm4CN2yDe/ely9kXBhWfYunRAtxTS3140OCrMjCMMNI3jUqJtJeCFA1iEITzIcCSAGM0+GCue5qIn3nJjjRAZW8U9yI1+slGxYfw5PWe42hpPM4jx1EHQQ2Vl6aFkksxPa3g1PCt+YTxbDpVi3ttFXCCqlUhw7XcA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 032027
+Transaction: create coin
+Coin: 65522f931807362f084637c9c1c3854f1c2edc2d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD3PdgpdhNR6tuWyU+qOEl0ntqEvU5tLBRzE+ZeOBcyrngF4SS9DB9yQWjBtvbYVh17losDm2kAEeaU52b88sYFZrUtDkTh60CSANetAmeBNDoqY3H3aaQ9XbBjXjAXrXnj4YYXtF8xHCG6I0eqqoNQADQ2WQSyQtfW/RcqqYrpltrgGMJSverMZL57dkhRdMCZw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 032041
+Transaction: create coin
+Coin: 20a60c0e5d7d3e435742b717afa797d64b377fbc.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDfw08dqVedGXChz0KNP7ZE76fxD+S0NSeTMvnuwHyyXf/ZRx8bCO5+GsJ+UwGetohnJ/m83NVnUh4SebfEZDS0zGrD4aMw3ECR2R690kQMRoBbN++MXYTgkpwGkZmVjNXE9CRVa9bfTuDiWqnejEtt+L8cZ68+AZ+ZsxHVxo23mpdB9jAigWkJUZK6MqHYAx6
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 040040
+Transaction: create coin
+Coin: 4cec49f8c037107d764de02d08fc0daf0d6123bd.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgA/Ohy8VoIEr6K8oQFdh7Ez5rEvugr5dl1zwJ6OA0A2Jb6ZENiA1OGPth4f1uuJ0jeFb53N4RGNO2+3jJ9PBz3l6qdWb+2oXMCSACwwVlAI/PidLK7VLsU9rjhwojALrKTfaFyzTa1+tSaj4gHQCqIUU13zIFhwZQ7v1j64Wfv1Hx6td9CQOXtvxK1mGSbwnRs7w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 062458
+Transaction: create coin
+Coin: 459bd83006f7f0d2b60adf5c32717dda16016cbe.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBFyyS+5jsw4Fs9l4DJacPoHo/IkHODzUJc4SZW0EIfxg05JYRq/LLH0oARiCKf9T2Pt/h1eeb3BydqG0TIV8pD7IJzA2YAGECSAP/ALK9GlMBkVx8icwTHX/xJfoVCOKmiJhA/ZvMLfCg0DvDzEW5H4UfDcxm+eu/VII+5v2hh4Bn2yMDoRT5MrjmQ4nsVGcp6g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 062510
+Transaction: create coin
+Coin: 4925c458fcdd9d25ab9d92212c08e788f81cf0e9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDs3FTTIfIiOdHra7ZtgbUZa+S4ftVqqoPUAk9J7nDwHMWI6AVilgvF04h0CZNsWdWcRFIgmH9xuSeGzD5qnDtenpsegSB6W4CSAGPzqyH25NOXJvGIXxT+2DXycA5Vzy215yHOZ56GaBIYEt8Z5HBXMEyYXYhLR8RXkLpBmPixrZ87rSJVsfCYfdbCLEe4iN8kA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 062826
+Transaction: create coin
+Coin: 9debdb62589537be2fe55c1fbcb22eb46ce4291e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgChDMWJReTrdt8ztvLxXQ+6wu7C9pnOFiouYJPfuPIT0Ohv0rpMckR/K/0XtO+OPcsOq/3KQxRzrdwc+Wt5qABPjZSRHU4XbACRxaMR8HfCHtEnp9KuEJMlj2o103iGg7DXiRkCniYHXbDnk0/phNtKCzdua84U5AWb59AW+aCPRhTjOPBeL08y9gjpQAZ9+jE
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 075059
+Transaction: create coin
+Coin: 3ef788ed71248b875e26a7547d636df7c0eedaf4.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDye11jq1/4k+2TeI9uUW4P7E2sOsEVPquEcgtCF6fvAuzRODX73OBogCRRJ3Fq4znzzFIYS1nWFlHuCjdiKHFgIiRd94wk9UCSAP8urPX04w2wmwRbpO7HlmW1ZVuZgoUskR7f3Lq2gAGOgVSSppJmA3HHFbK+TReXyiDa2iHH8MPBDSPLewI1zb/7+hZmWHr4g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 084746
+Transaction: create coin
+Coin: 8283a1f34bdb9c043a29f0c817a1b3efa6ee3944.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD2kmWbwX9Ta0TYoUNkiFx3SaJlTK+/aH1o9sNqvxk9I7xNMT6AolRvIdOx2z18k5TmS9U6U6PKB6+NeOobj4g+Rasu12M2NcCSACk+DGFrOOv0cr7Q0uyIANzQ4RJRGtooQyrsTNBwx+a8Kz3xDhIiHEGIVJw0LxpCwzwCYuraeoY1aA2mxoDHLWqqI9U66PVOQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 084818
+Transaction: create coin
+Coin: e0495765b34ac5ccd56b21656b8f474a69cc8812.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAxPaD8IB91wL0G1Skp/tR5U0sCxhpX7pKXQqjeo1PY9x1/j48Rcsm72s0+2b51X6/7yBQvmYLyQkCGY6jc7FaSNVhoqNrThsCSAM1wZ9CLxTuEXtVmQWk/UsQnmk6rWCihyGIAsIePRVUIM1TlEVpDCeq/+YqYhkRv/K+361zgrJUxC2yFZkhsTXu3tZ0mpRf6Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 085024
+Transaction: create coin
+Coin: b65ad29dd922ce082a4de92aa0594b30e92c6e98.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBXVXQD5shjuGvq/uLRXUPFAu9yciEOOJvcmm3wVsOTOZaQQzEhivzgCmYdJyEd8ZbplM9xqnSvS3Avumxj9sJDyN1vx5XMOkCSANVd9ZOhrWtRPkuDd5jn6XHq1tqDx8cpi4Q6RBILS7/YhmR7OOm+gZfSGXQAvqSxAvwIH9YN5gy9Pbm/QrA0Sg19pfD22hOAg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 085321
+Transaction: create coin
+Coin: dcb111e206c7ecf1c1d779945b0a1610183d0b97.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAjDmaIwIvIz6vIo4UzxxP3Tpe5+aezTaNjwecYSyhauu4kwNHAaJURGj1pyQkqm8XF2oe5dC25O7+NOKsCdJD5s8FPB7rjmACSAO4U7BIGpdIrQwt6Qqrj2jv3nycR5sGEdHA4vM34EzHXNn57XBh6+eXyLQgF6u0R805XXw/ZqHVBkTt0ERWxiMfXnmrE1Vg/g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-22-2021 235231
+Transaction: create coin
+Coin: 2c92211dc2d544481779ab7437deed1e991d6753.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCuXOYtM0Po+IZ7v7LasHDWn3dWclSjyo6CzHVN5Iyhp1BKfvy9EdEpjMbBTLMhk3hOK4l+pRs95xP7XZ7xbF0XZ7NvxMr8FUCSADvcgHMlCqjuU+Zn1wrRlUuzLJFnNFvpMdm7ci00xPjKE8wr2VhuaCSLITMW+Wq7flzTPJedvBYWkC8qPxxRmZXR8sxZOXVkA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 003328
+Transaction: create coin
+Coin: 4eea6848dc68f55df8bdcb735a629ecdcce047be.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBOzDUwBqT4N3XcblTUV6qBDJYbVy6mbCEeuoG92b19fMDoSJexSZH5b78gZza5lcZPgwn957rHj86KJjyFquxvoqH5lbVhJ8CSAIGgA77Njke462F9dRyqxAUiKfGpmO4yLVFh/CuMcQorYgaDyXdUi4IKP3mh/+VH87VpS9iDCGrRh17eJ+vIuqq/fLK0DxKNQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 003400
+Transaction: create coin
+Coin: cc0f625241b655b08873e819697188a8ed8330a8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgA4GoFtwlc7S6SyZBCS9VY5FJOdBFNboS86o5BrAdln/Gwh5DYaDIRWudXZ5A4IGAQOVHIGTnA8U5/gVg8uLYOD9gKeyYPjCcCR3ncO68ht+aftXj/oI5SP6dS6tECzXYK3ZdmIXBxZ2vGwjz+kwqK6fGJITvP8MrklF2Rn+NLcbYzrB1sC55B1Y7mbEO8XWZR
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 010203
+Transaction: create coin
+Coin: ad492743f5f96568a79a9954645419657d5784bf.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCrixXbGuJ1O/3zIACtU272Bc/JyYCm/MlvsG5h/AvOf8y7M2YPYTz/lRfd9Xw7o08oFB+umhST4JWgySRgb8e0Nkz7MzB0IMCSAF/I+2fzALFVhdxQxOOHFJGoQWnbIhg1YHrybwOrSYR2wiFOvzuI9L+seHrUjjpqP9Kb1jH49HkgkUF7HBS4nAABCVaTfhWNA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 010208
+Transaction: create coin
+Coin: 0c3efe79f8f0807a935bdc6e00b75768626fe508.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAkuiKbZnaWSl44ah6hPVDKrhK69sLntQQTIsgfTR9oUsBH5cBHtdtyWKlOdH6lcXAPwJ5BLaPAqezJagi4xJ09W4iKsUDOxwCSAMtXHSEiu1Jg1Asu39AUjyFW6eJALVrf2RxCn995i/bxZv5E8O4XGRqPXB1G/hSIDHOGwQnP3HC8vqyIAfIwsbXPLaf/rgkWA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 010635
+Transaction: create coin
+Coin: fa148a735fa5137c416eca670cb04629d6e1fcd8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDC1LRxlN0kF3tQaJ7dda1/r/Q0cHPUCXXaCbdAInBujhwFZNU48xJ3GydyVxT3H4jyBGBH0z0Ecju0JDsBOEl4bcwjDbw5cMCRxZ2LVh1b5DEbuE3UpNt2ZYI0ydCpZmvEea0zgPB8yNtC5XWOhpplbPyWJK2ZPDJrl4iufSaO66kiIEHJRCv86MZpvYjCU1G
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 011512
+Transaction: create coin
+Coin: 8a01b9df17a8338cbc9e1195c914fd431baa5d60.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcXGLeviC2UG8Zzs86d+HQHpWNnsTcBSX14P/+2UGEAyVzlWiUuvil8B8htSERaK2+fgADUQ/5W2CqXj1yycA5v0hOhYaNm1gJIALz3102AKwj67ZK2XOxQRJaobUcHwBnaVCfKvsQEdgvttAdGgyOK0iwhk5YHTyETwdlsBPMs7Qd9+FU6TmL3W0i+6k4JIvd9
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 011526
+Transaction: create coin
+Coin: 6062752d77bd61dbd5d23bc6be866a5391085e05.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCUGACIvyvcnOXS47dqsRqYXqDRvjn3/+4diY6x+Itb79xLwo1OJmHEaS11N1alY06Nif/dmvVTRx+9z5tyzLsOvmZzZUCrm4CSAL3JM9JG6Ypbd2dhKZwiHcJ7KoHfKGbS2x26S71BTw3+Oto2S2o0Q00a4PU+gK9w6gtMnwTLaQ2hDVH6AJv+UxGQnlVuGBs3A==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 012827
+Transaction: create coin
+Coin: cf03dd1227a35ab576b234c5e82b1e9bf6267cf8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCevnWTsOmiAuy+ux4t3W/DsIGswA/+GfoL0yYMIBcm7/zT26xcgcBUT+OaeBRPRnIJU2345aD4hD/TXdt4W4COQHbhhIhS4ICSAKARE86EqijkFiwu5bH+zXeZjZZt7gLsk0tdDHBRg9ifRbCZ6gbnZiu5mGkDTGH0Mtfvhq9Mu4p47zUAV/4kRO1VsK99gNY/w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 080213
+Transaction: create coin
+Coin: 3bd4162dbd57bb4a01626b91b22b3c5f41f17c60.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcrJivsG/vfwWsnhmzghc+75hXYEy/1462nDyVL1kQNX1UDF1EwZiiuFcEq6++Ob3sTvlzE7z3jeTnrkrA0GAU3QyHPEeCVXAJIAfViahUuLWhissWSOnVZrTQtBHjryZSiVs5hBilaBnW0ew4EdqmNONFXq8PXuZ/Jn+Shf3/E9PSKgR3wfTG5bVQDEF3WbbED
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 112349
+Transaction: create coin
+Coin: 122ac31d638dac8e0e6b840caf2daea863d242d6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBKWIcoGbu9VZyH16ohAMADvA+16aZuIO0wyxKm+MguXuPF+zp0SOuNKcCZ+jSJ60IoWeP7J0a7ds91+boOhcqavjevw2tFhwCSAEUqvLPllqPFh7jIAF4SJYnLR1WN8JWP7gTIhJ7oJiTLbu2oUJUPVG4qQRF6SPOEsWasGgPOLzJxK3ArrRN3VzD8aLBbOCP6A==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 113821
+Transaction: create coin
+Coin: 8092d6a81e8632e79b4e62d53da014398babb900.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD6jGec0sCDbXVjwxXJNzlouFrmWNoMr2Aaahc3i6mOSJHb1oLxPO9FGH9mlc/jbJISaXnEhHLPGPAlUxUi0f6/JH7XQ6sE0cCSAEFDx/uiBNJSVChSwyrRd2rvV0EM5nTEJM/GhAYHmvg7pOllgOMPRped31cHDyeve/oKo2dW4/mypNp/mEe9Lnbj9k1cFBqiA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 211623
+Transaction: create coin
+Coin: d6e7f2c5e43bd4d20c60d0dbba97e0ac60438819.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBm0Vn17g78T9XnOfYm8ZCntVRA6HY2WZmxS5VOzu91LK+JWZCkXWdap2UP1YQ/2elZDm2a8is79JeoIiBSG8AwLBkyLMpgfgCSAMUNT22zAEIPXGF4HoNx8YZr25S7UBFfzonhlhHRFqV47pdY537UlSaqZjjIZp7cbUoG4RqBC1uQEXzHBe7VSBK3AwZxEK9cQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 211629
+Transaction: create coin
+Coin: 321fe62bf9e722697503494eeb1e98a78bd83bd9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBT3AgYyqEtsHfOcJ8GG6inPxE+a7YD8wO2rf7IlyeUdfKtiI49Dp5qSLgRD4a9BFeO5itm+TyYbYKApJkJdsHlT9iGTX0GekCSANR0nnl5HFasvqnjoFBVva4LH9mQyW6csrZYt7jPa7ltfg8HlqaBUvX4l2K5zIuHtFSxHJh8MnJjZbYeEmce7rZzY0sWIBqxg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 212556
+Transaction: create coin
+Coin: 1315624ea7c10bfe5a8f89d31c8c43f7c366af8e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDxJwCbTjHZ6tkyuzqUNpoberyn2p9Ze6UQhRM74BhHexqrIfw9GYl7OaknnUhDdn/tLETlL5HKpKvvM4mpjcOkqV5mmFtROECR3/QuVB5qdBmV+5DXDwNG6trmJC9g7lb/lnCpNL8do0yDSYU7wtTOTvSJnODve+AVjnWry6q9iEvVZWeX+OP1N/X750l+0SQ
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 215733
+Transaction: create coin
+Coin: fd3ba3e3609be32bddfd69f9ccb7d51b7471408d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDWcoRKBHk9RPBrJI4R9Xp662sPblHWb51I0IoDpyzK1z6z1kW6Oen/7pnZgY1OeQWhzfQvKihxe0xAQoJZ3vff+MW0O6dBw4CSALbi4h93yqiqUnn6N/BMWF8tyNbXGkIPiyg4Txo8rUDds2u9XLmBuxA4Zh/lYPrbE4o5HOfdf4sKluyj/6QVJSc/Io/PuUknw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 215811
+Transaction: create coin
+Coin: 3d1973a719908d3960e5334592963c3172251acf.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCS3UxAOo1yhtQZ9VT0VO+DsJNH1dG+PHwU7CSrU+kRkTd95JkqVj7f7WjJ8z8d7sqnBOibxF7ijvhOY9fjoYn7CvxiNKyur4CSAFA96aRn/UK7qBeEXp73M9s0OtGu5DREk9Q/6TNo1lybQ9IzhgvedKX3dYDK6jqTMFXNf29ArE7nFhPOiavK1XmDk1++NE8xA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-23-2021 221114
+Transaction: create coin
+Coin: bc6118813294b61843642c239b67e8ea8842c90b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBEtoqv7wNIlJH7HACfD+cLY/2mYVLSOYYyl1oUeTx8yLCutRXA+HKIrxvx/GFZlFnp0cCmGoECb9s26KTI9bLBKN9VHmclzACSALIG/m6MOFpm1wuBtRQNYOLsfXpeDBQHmbnBYdiuVj/diWNjgUaLYr0mf4gBR1HN7lk9yF9bO0yu3o7RbiCUt72W+oiQYBhHw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 065046
+Transaction: create coin
+Coin: c8fe86d49669c6c7152162ddbc20d32a946e66a2.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDbZvm5tE3Cfn3CQLzP5GIKHl54bkSL92yZamB6+bAgqDd5z4apfiZVA8Me2UR5KLuYLqWNdNdy8/zr+9+kfOuGdgPzgFktCUCSAJ4PP9QDU+bfhJzNzVQ7oKSM+f8XXG0RY6hG7Yr7hPFCvl2b2b62c4SU973qUUss2+PU65FsX1CR0RaW9e9PEeVg4y9LyZh0w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 093914
+Transaction: create coin
+Coin: 5a8dc62626dac41367598e6f71a14e079fbffbab.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBxSJIcoIl3E539aAuzw2gM3v9+Hp0KkxsdXE9parVft8MCrnHA9/+I44m0Yw+22+nOiwiuA95H3hSWanKJdEYPgoW/nseniMCSAOfMnxdUGEwY4Mhrjsau/M8vRZiF3G9aHV3b4K5zO9stdTlSv9K04US4qdYrjKkpVmvcRN3BYqvk2XIC4b9yRfVJ3f2GpRr/g==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 094858
+Transaction: create coin
+Coin: 74e364faa5193a1733a1b38f4e3b83b83b274b71.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCb3sMRG/ObOdBYnt8mIM0EFX2ncoaRTw5akDafor6lccXaFPknK9OyHE20eHXSWQtDJJB7utUWVnnMZszOnDzh8QTN6F/oTECSAO0w09eXb4dew7WaAXV5SUXXNQ7gs+EOoCbsv+txJgtRFoQoiiDRKp33XeEdRgGkPiq0FdSlx6jSFQ8YoUwUGxbunArg/dqUg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 094938
+Transaction: create coin
+Coin: 63ea68d396fb1ce898d51467ae3afeeb3a3f2e13.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAwsG8ZKNgat/2JtQAVs7/FOGygYsxRznIQZJgpEcmT/9/OkrekfyyB/z8EyGqes8NHgyoASsMlsr37H/8PfjbtclpRNOokiECSAOGKxKldL86FV1U8sSOE05CwHPh5xVAwyDq6v8V4569Q0hMwwfSZLcwUwv0lQ5pqDaoT/F6bDtxfS8iQJftBw4+zSY1+tsrjQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 095009
+Transaction: create coin
+Coin: c8470dc30337d45f20c4032a008e03c1523bfe25.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcOCnIRWwScL2VnJ3gDxhvOBISOans+wO4KA1g1APCUI7FGi297JYBVnQUuen+6Cr95K+lwqqZIhgguoqXluWYXqwamRa9uAgJIA4S5SGgPY28yFY5ZE/YsiLLHrZsweGoGiwnVqPnXUDe8346ZEJ5KkriXfVlH9KSFxWHkgiUF5EdE5CIBmXtlSD1Lv1eKxSUR
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 095057
+Transaction: create coin
+Coin: b4047c3a31188cf01bb5bdfa41d1d17ed2da47ae.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBHaWBiaZ8iZD0/m+P6l5F2f/SOY9LrBUq3TGLRvEK1KI/eLVlBY/clCcsJKazKaLmOmlN4mm9y4am+T6yPjsMV0oDHtdeafwCSALCxzjCgibWWHTPq+GAGoa668N/2OB8Xu/qHMRW4IVg6z+8kNLbPMx8GVbhyowe12wCfZ70GqBUiS797rjY/wj+d+fFqglTsQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 114734
+Transaction: create coin
+Coin: d29c0c1eea2a5a2f8de5daa0202bf2baa9d89bf6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBy7UTo3cXMNlFR49q1mgv5Y1kxZueztBetcElWn26HbtJeL4QzuMH7DEViwXeGA/ljfgX7/JalgxImJfiUnZHePy7rebVMn4CSAJ8jU9MZRgavKyv2vvZuQOHxnnVpo0DHUg/G4Y5SZDvKWtoX3Vy1deo6f/y+MDbuZcmRvIE+GbMn9XJwqVVYXLSOchhcKcV8Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 131550
+Transaction: create coin
+Coin: 33481b072cf5a7a2237db712cfb9d2ae74543271.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDGDezJuncGOcEcbaboJDTB8R3tYdQosQ2WlNioJ5/3mc5GoMx5qE8lIdUHDOV0y8c19sfy2etA25IU6q0dlhD7IkwGiF8V3ACSAJTFOZXTehrNACVjdkgzaXL42dya+eCgtzLFJDxfJb8cjvybFJBWdJfUKjfrByK+Fm/cdOiALQSVVLTW0Ym6gC+diMAQcQ7yg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 131556
+Transaction: create coin
+Coin: c39da8e6a64dc02929e99199eb18ca16ff78aa51.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDUnTnFGUbhTXaeU4ZEfVUZbVaX5dHFgarnIBr1TV45liM7mHJ22UbIEmJxMFaVHaDmhex+DJXNPuat7oMhAhWKTpmcTdIIlQCSAMoXORhZBnGbJN0fC0r3qEQcYOB0NdjXWTNSWjmnNwwSmt+1zRvARY8MbYC8gu9vV3f4G9iSBY80/xOu52q23iicBBMpW1d6A==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 143629
+Transaction: create coin
+Coin: ee2a81af53f35445795e2a40d9026373bf9cddba.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdSri3Ooh2Ae32Sm6WkphBICsjiMYwTAL5w+TDvgZ7mmSiGMDb3teyY5kKxxiOgMKVIZlfMGgVVM68iIfuOZVlhkB94u1FkdAJIAcxeVOuthzbPVA752gr7cMd1Jl68J+Xj01JBg1LID9jd8HPEZgGlYIqeverVQyOFbX6TJJoNHmpI6zLYZ3JvHsQYdXG38+r7
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 143635
+Transaction: create coin
+Coin: 315ac71f3ec23e182011caa971c349e81fac6908.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDDT6L1740X58YESbwaz75ep9zjWpQ0FyIhArda8v/9j5ZYG3WeQ+ZIbA2RJ5ZzPC5BmKPASD5O9nvz9JKGakKPtY1L8BVmOYCSAOwNxm3nsHa8LmyYhZs1xq/Uk1/WI/iY5e6iRZOCUoaKWY0fhJx429MREdBPC2zSbvhctr7qNo5fJM4TN3gVTNPSKAXg57x6Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 144204
+Transaction: create coin
+Coin: 72a80463ec6dd6f8785e8de656b621d712b68446.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAlB/i0R0pjAUY/bk09kb8DelSI+X1jUvKaM366nTxWskVzy7mqr7GllQiiA6mpI/J3HOkoCqzzRcAkXK/mmgArwGYUcokrOICSAC0fOvmyjUbx+AfpzK3B7i1AhqPHkBDlI5RrCypQC4KRYI5mWw4LJHfUyq3LHkIChxuuYc6+68+f17+uRKdYMARcS5vgujI/w==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 144556
+Transaction: create coin
+Coin: 11e07f0d55ca9c2e55884085d121c7b559d2eb81.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD4f1Jdv6PcImJZT82WKnb+CzldbT+NVvNQfNT2OLwkZwPARdCGAgiaJ+ZeyEDBU8Q/aM4nWE9MQ35DPgNOtGjq8ISdsEjndwCSADRe5G+PGeRHa63qVPEdDzUu0bCg+MpXf+vfqSxhPi6YfG7Bdz+QkCUqV9PMEeHgeR+UeFutDgN/1f6r/FSRAialHY7wGURSw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 150931
+Transaction: create coin
+Coin: a2f16cb8515c73e65875d635c33822fc7e47d64a.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgDXwvaJkHgNzOOkiqt1YCDsORBIM9smDX1+lAsJ/PMLdIGpj9FQDE7xy6jWivYrslHdLcc9ZCcAGiNd736+c3+VEIdpFAcgxYCR1cGiuMODAq9fyw0XDwX/+1u/I9R9G6ujY3J7HqK6fC7klf46KF8ahlF1j1PG9lTpuqiUvzfn+3o2/v4m8eCdK7uqJP78QT+
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 151037
+Transaction: create coin
+Coin: f938251b2694d71fbf08581b42c3e55f0016b215.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAyUFmjrlh9nF5quVNYz5o2f2b3r5pEQosfV2Dr0C8YsJWxN0ANGGbdnJABmS5eRq0tSh6O1NGfRAwMwN7Mh6a5K663BvT8f8CSAPeWZjl0ioHxwJ5X2dkr8EjYSN3HAg9c8CA7ncfZUWw8FeaIDGDeDUecEEJbOEBv1o/pJiHO6BEztyt7c0J8xqCt68rLv5LHw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 151439
+Transaction: create coin
+Coin: 650d5053127f034389b070768e962f0754b0bd3f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDyOgjSyDXgjwsX7YZ067YJkdK89kloAPf5mfXKUqMW5tvnRQaQkiBnICP6os54u4EV31msClXf9BGR3Bv5LPEJX+OvdkXYKsCSAH3uAQoRbjyaxnhqkYBl4WKvQjYqJj+S61W9kLyw0REKK9OQekGRdlHIKrt/ekw4WLu4uZK/PTBS13Hjyv02Qh7FtAuhIQGHQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 153919
+Transaction: create coin
+Coin: 2b84a6b72e5ef445c121a25d2f6ab7765c395100.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCehS0td/FyA5n4L86jqvHQGzkuQB+i9+iEA/FFroa/aA8iVgGjveEGJ+OOYz7FqmB4DTQRcjQi89yZwCeJfttWdi1GvexxykCSAEWerp8YJ39dNcJUoYxPLHUyMm1pUgp9ZkrSBLxE1bChX8soSAjtGqUvofzt+uNAvnPBwmbGCfY2v1C30njiZ36RdjEJmfhEA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 155332
+Transaction: create coin
+Coin: 23ba27ee7058a47c2059bdf5196000b3b08f3599.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcBM9Pe8ygfH8G6tNbm67YL4U7GHnRzbdcpvEkJdbm/3EQUPwRunXIecbDYRnFo1Mevjg3kLXJQ4R21L9kwKapHc6ER+6bvfAJIAoKJpfKWGlzrHiov5qwps/T9MV++ENLfV+Fd9vMBM1E/e15y+roTIDblUppa0uYC2/NJ77zx0TFtFYA6erUg9yQ36oegCDOK
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 161049
+Transaction: create coin
+Coin: 3ccd90e81fe06c60d46319e56457aded8f417ea9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdxp6ZYhnVS2OQzqJgc4AIe3nBSp77aT4RQoqDBU4IJMnDF3v71eHuxYZRmXbpU/scg+S4mg2Ig5doOnRFO5OhcYt+iFYtXngJIAynuoUcPrYijQS4wuYbUf/l6zNyKVL70VUdcnV+Zb2KvlgXJgopedky9Vv6Jy8LUlX8a+I9NzHzRUjlu9KUR9UO8kl3gYNMY
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 161720
+Transaction: create coin
+Coin: 840adf71a5f578b63adaaf9a6402ab78dc2bbe71.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCRwZN5qf9lbrQuTEl7GiP0/nqRfW9ieKaya5gllW3RktcBuyryGNxq5oodI425SP1mT9+G7AXd6y4yJHSSZ1bgpNHycw9CDsCR2WiiUsz73YotwBUi7WiAEiZKDGChuZ/aOXiVmZ5Yh9w0ZyQCO2xNzgsrdVfl7oUlVZlvQqXam2XSBC59MDHtc0D55x3UAHa
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 163039
+Transaction: create coin
+Coin: 2667aebe930e38eb109ef5551a1457597df77859.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDtYlogTSUQTpEYg40pN5gId2LvqAg76YeKxXvj/6nMG6Lj8MQjqGhGe7D+C6gN0jnDC7mLUIfXQr11BsnbjxAyrq+pVsLgmwCSAH7LIDvoMfBaJpMh4o0QAswmcYm0TZK6K/6SnuK5EeHTcgb2S07cT+6RGJteTtrpoP0qAuCygwU4Go4vwVvqr0LP1GeowZ4SQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 170833
+Transaction: create coin
+Coin: e38317df9f150d14a8c7eea6c7febe3b02aca9a1.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCg9Ql/MF4x+oMe88IU3p83HSR562rhDYCzcTYYvx/YNAPK/pCuNGrsJn0vxbQGdw3dNM3Edv7yorw//dj5KCMvquBorVLtF8CR2TsQ9G20sjijKpsFL6d/YM5LWtXjJO780wwvdISwO4Dnm+BZtI6RBhI5Q7KKCRdjhRVv+cE7zyIFMNKEyKzeABbR6RNqGiv
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 220106
+Transaction: create coin
+Coin: 5b62b9302b699f88a4aeae889e63be2f3cd3a456.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAnP6Vd/4WO7CJSESOnVoL0iTXti8cWKsYVnn+StwjX1TZzAb4ViZ+fXfqZ709QH0sc+v+EWT/ftqb1MmtBnVykpXeA4LECcsCSAESQx7zOAaKw5jKyRR4o3Z7SMQMZQY0UuB1Q/Tw2KmV+R2oMeL6SrJDxNHueoTgbHX99JnOsaurXGJNEOL+sUh7Ho05c6Fvig==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 220114
+Transaction: create coin
+Coin: d36a82aa4ac5a00dcd671018fa19819c0f737858.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAl4wX9bBiXBZM0BY6MixlkMYVwyFO6WcnWKcVKVyMCPpjQDKXU4cb2Gs1TS7cO11o++gfaDc4zqc+fVImdLiDq0N04H+MqFYCSAH1ZrCXdTylV1uKMAF3rpBETi2Va5waBpUmbEvXz1xvR5m1lIQdzpX5PbmaHUc8XALr+KL9/mPdAJ746bREfSwhYkCKwNkDeQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-24-2021 220122
+Transaction: create coin
+Coin: 7424c360a25b8643fae1a490327b50f4463b4e2f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkct0Q3lFbnvYOjvPfvbgayjaDbeWdMknrN28TIe4l8kyrNT4ddypzQkKQsVa1GJJ6K+EK7sKRe0jrJNdNgt8TM4MKOr4fMFZgJIA1QwzxTVai7b3kvxh5RdpTmtlyNiSfqV5lpSBTUdjrbgdnmpxrb9s928JJHoduTQjy6tCn/H3gSyblh0eOcAvejgxIEm5Br6
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 010409
+Transaction: create coin
+Coin: 1b0bd1ee8795ca5058188120210e5ef284afd89f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCG4L46WwW5IuU4tkqL2BZzSoIvrE3T7WL75lTGoXnvpqCa2+12Sg7aKUQF+PivT5ZzGzLPfRarjh/gw8vQBjxVS0ivhHru4UCSAIpeQz2b1fYBx6d0y39XK6kj5zEWhBjsTVv8z337O8P/Z576r4DPB9o5t6G6jytl8HfgRa/rronsGQ+CmJR+N3YHw6+jP8kxA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 013134
+Transaction: create coin
+Coin: 1a75557d87d3e34f01024d16e0221ce9db130709.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCa8fJ+fgrdKL+rfpdSfcHv/A/jG9nLwLop/LMMxbiIOsn9JmVVoSQcnRIzDKSeTel6T0EpaLajQLvUg7FWyXvUMIhvL+0GTgCSAFF8hF2fLPb2U3Ov/eXT36omdl58LRqeGX16ig1NWQBoo+o47DBHySU0GLI2p1KCMrb37BqSVAwrZhMqTjN9AgtHbc0ki8WHA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 013908
+Transaction: create coin
+Coin: f361d45cf35c29f48e68425020334b71722310e6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCNMZNNlf2bIsVEmZfNQqIeLjqrSyN79kqL3b//QF5Qb5v5eeA2reaKOHdtl22CL96oCB6IkwliemJ6higZr1WwKYZUAmcN2cCSAP8M1H0xZVVxP7rZFqp9CeKB6lctAZ2T54S47Nu90yka9H6Xs82f+Qms+9doJXAlSZ0wJ80pOza6wsKpr75D2/pPyeAPQGWzg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 014207
+Transaction: create coin
+Coin: bf361a336121682c5e3179d212f2472ae8bc88a6.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCYztsymhCM8VwwF+ejWZyLcDLPSzP7nD4RIXshtCdlA2XOKhEEaDOadv/NMP/uT0HnZdl4LrMKpbeyyTFrStBp6O5yvhP/pQCSAMWbtOcShigBLCHJ//8zGOiXF5tmYqCmL/vBiaHwRegE39aFqs019yjy3z0ifp2IgZewCaGmr4wMzUj0P3Boxm4wDNHed0eeg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 014849
+Transaction: create coin
+Coin: c047aa97cc9c0bff377e27ed03bde20006f39aae.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBoYS5TObr/z+kpPkRDFESrqw/2Tyo9dLlfzP2LjuZvzgsg5pW0+25D230v3YkLoNZHqGzMxuYbpZIAWULSDeiXOc5i80rhVACSAK4S/GKE/algAE/weM+OKCGwnJybdZh/W0eDGsNPCaAMv1BPSGeZvmQClRWZwUuXRpv5eLETvXpkbommVPC+Ype+FKnVLvfUQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 022550
+Transaction: create coin
+Coin: 7495e93121782319051745884c022f43980c39ab.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDYns6l0A3AQhJ0Kv/HwCCCsWBjn8lZ1ANe4rvOAx/qCj1azqRfyR1xnEZzky5aC1OQPQqGKHWAe19ak/7+bTTQ3uPtUnN+GcCSAJCr+ZloEtcS6DrC9M21oQJtssfItBj1BEKIEyYXcq9auQZ8fREInAH29wy3WbyT6DRR8U4yA/mcVYF9BRwqvfC/M4XYuvSDg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 035153
+Transaction: create coin
+Coin: 6f5bcd0e5b61374068b1f873e7e07c5ab6f53a38.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBqq5PZ6kxWZ/ShHZbtb0U8r1jyLV052FOOkI9Sdd5TSWdGmthFGyBuj1lOsRy8vypdEqxT+DIE/1bZnZcUJ3UIT6TgUCp4fkCSANIdJoITNXenBttH3UK1S4g1EcI/7cRaWbOi05E+8pvBQ2h0tKWVP+300Ww8EjvwCTCtCNOHd5nUsLJav09sykwkwmI3/eQVg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 035159
+Transaction: create coin
+Coin: 2a2967b2d4a04e2a30aa6ffaf24e0ee5b2bd8c18.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgC/3GnyNsS6f/CPZieBF3a/EitnFtRV6BVqFyf4DuEVnrc8OKVfHghvIy3SgPKm1m5XBYQWlQMuUZnruQomt7U6WUMcgjQiK8CSAOw0csE3RqlM553D4NiAWQ0HyVIsPEYnmVheEFUdo/DJVmHqMYvlhD+LUGii30YHXrNcUxTuBQvMJ97VK+J9N6dhu2dAEWXNw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 035205
+Transaction: create coin
+Coin: c6e79c7ba5ac738233683249c7d83b8c6daa88c3.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCzTC2M+rsd5lmE827HtfhWYHjwXw8bNeCBMDmM+5MD3npaikZeti42CRu038xHoSansZia3i8NUsov9FckYOBWoCJytV+274CRzX2ujHAsWkAAOZ7IskwZdxzvjDhZRgRurmX2+0PhwyhY47P/wxfUY++yJeYr4QGg15GEhGjWsakY+wXm+wsBl5AIEMj4mbY
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 035234
+Transaction: create coin
+Coin: e77d872f0ebf3ce626d425d17a78bd736ea0258e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDlFCJQlobTDq3O+bsD/vnHnJnkYkyjOq5/kxQtkUWY7rVcNVBxGj9ZHhK/YFSBvKjI6tvZEk6D1DgvBuDoDglrZaafEr3PKECSAPJ5ALWCa8RRwXkk/cztA1SRK+8a6WV4H7T12nUUpEx0AmvVG1tSgjOsXWgVehuhqINQ4TobUsGXXbcfiyUe1bK1gJh7L98Hg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-25-2021 035352
+Transaction: create coin
+Coin: 036f5244df7d2bd2ea9791743382c3f8a1b62476.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgA9PnzbSkLAfINeIRX4bN8+q5MBafVYAZJhWGdVYhHDTYllPcQSVUJ9zJEKzyts/EqR4hxRew9O/P+zplNCm1TYXCm9zkwmNUCRyDyv7sq1WwnixvXQsCrDE7VVAj3RZhMEO8FjmJB0dl2VrHkwHXirO3g/a6jq8q8wDiboX53LfF5JT7Da8LErsJ+mhFjC9sq
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 122226
+Transaction: create coin
+Coin: d789b6ce2d1bcaa6df2a14e392fd6403f4d7b914.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDAMDaapirH21CUgd38sX40cBtEj2UuQ9S8CKzPt79ODuXm31tyyRXroyjgn11a8+C9z7zXN4216UQBktsO+jA9I07xLsrJykCSAI9Y7+k2/P1+eI+Gdjp1NbLJ3r82XHaVTgXci+wcf/VH+A2a3D+IH4QxgJulh9IgQLuQXJtMmGxu69wfwYvEklM5F5hCr5z5Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 122233
+Transaction: create coin
+Coin: 240a76ece5a35503ac02095faf9d7e1a5f4d36be.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgA1/EwSwhglgYCNojeNow5qbIzVmZIoF38VKRfMbAaam3w71JoxDBwrb5dHIdZfXyPXPlC1RwSFvidiJKFmRHq/BX2rLzzSyACSALbk4xz5pTQlvkmw7L89Qtv2xQ/qXsy7XeLFTf5/JhCXtYc1376UYQ2sT2EabkpGF7wv5h+1FELLtP9hlEZwoQCAJoy6DG3YA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 132158
+Transaction: create coin
+Coin: 0f25a7367bf439aa4fe05088c6fb393313ebeb76.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkc1vlHmGXXDpS9mFUakUrZYtsKXid0Xs98yE627YOzeueOMSYMosBdKJU+uYoBjPWJ9qWT6ivuCaqKRun+yf4UWLuSr3ja39gJIA8Hc7OnDi+F8L4eWbi6swoqAbTgrwpqCTcAPGI6CesSG4A+MJuZy0bSdsHVDjNJ0hhd6BJdEjDJO91Yrh5VOSYeUJd3jvoui
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 132205
+Transaction: create coin
+Coin: 26ae77869a1bfc2d191166ce524ee3160c768b93.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBL/fchKNklL4i6rsAhunEL6Zm5Ppt7JmE17qyO1WT/eRqmKSqEqXD3rO4miSADIXcqb+5KAVrkF6rpKpq7Lt5lupYfjA0SXwCSAGUL57fvUZrBHSPeA01T8HeiLQcTMR/+HWiQDvh2RC9asN9HpuN0pHVvNNf3rCxyn3KtryjZGz9nvaLT5HOg4EB2Gc/i+XZHw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 132306
+Transaction: create coin
+Coin: 36f497327712dce5756052cc897652dd79a39b87.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgD2t9HYh/7whV1VRDFD+n4nbj82riXF2Fb9kd0JzyHypYdr8pvVz+njgvv8MSuwGY+R47IoBYtWjx6JWa583/RVKUuGsSuxSECSAMxStJ5Qqoxd18ubCwuKojaLcW/sU2IsulVrCco6nyAXqg1vNMKKj2lJUogidwHt19z+s0LqOJ2JcoKZmXYS+iVdj7HEulNWg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 203205
+Transaction: create coin
+Coin: c6770e808ae39ba932ca7b48d6762967148eef29.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgAoFz0VkWITR3k0RiOpOx+5GU5nIdwUkFlM52b3pmuTTDgwSv4EJtSJhOf6BwqckCZ1pjSOmOJ5iYOtApAh5izTxQ8GZVNo0oCSAFNLU5olvCAwj/Wx99ke3edb28Vbdeg0roYwX3KAy3XdjOlqVyugMUeMyhGXIsx0oeiF5AExcYknGxZ09gvXzy5l8pe05Z2sw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 203214
+Transaction: create coin
+Coin: c3b6cc0ff9c03c900558a4fd16bfc8f2fccfa0f0.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDtiBK6NfGuXDS2ZKWtUT9xeZt5vs61WxFv7YlLBb8d49InNcrNdtWdddICLblbkuwPJDApMvrLFAXmjiJ1m70OIAqkwFXS7sCSAMKHNwMQUb7ueic3s9i6T9nllM51KbwJlCC76ShsjBOPktpLGgUTXqp7jaTWlkwpTC9uSvZ7Vb8KYmT6EEYkJZiU334TtSXHg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 203832
+Transaction: create coin
+Coin: 8ceee3f8540ca093e7559fd789ab30a679797db2.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDdt8aujZ7Zc+ut19q9GiP2nT4ucXw0RcmLDGsuE3s5t/nC1MpY2Azo+lAqN6R13hJrfOZAL0CmEf+Mk+28lTT7tFewjKpYtkCSAOOxZEj/gODNjP8yb7GJEgsGmkgO2ZThvqt/TvhHq5I/y4s81yqBamJbIf09WfdAgeXeVljOUaygtCiJQARkLqdBH3AMnN1xA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 235356
+Transaction: create coin
+Coin: 4010c0aec9e815b547318f2219fe7deaa860628f.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB+dQpMcL3oJoD5vLKBWOMHgUfq2fuM1bDiPAxzEzCWmGJB62MzPRTYjGa2CxsdpDSvzycHBbMnNKkf0jlA+nlUJ/fkmSvhR4CSAIWWdAQyHlrjfUfHzd02R7KMkqUfkAbPWsnq7nssq3gZaNvcLgaBjWpssS3zJa3fBavLkudCILJVu46duAIbj+txi8e6zc6gA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-26-2021 235414
+Transaction: create coin
+Coin: f256a1373df9c37b921d8e132f1cc69ea0866c87.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCrL3rrrGZ9tjuGvaghZG9HTZh72r+ZleJSefCpSF6RokmUJTQLIh6U3qCVFLJQQ5HJqjowp6bHgnwYSU6KFBYj0tBxwjazYECSAOyofKIar7/Y7ZAOSDb4LawVwmGoXFWBLvoy12Y9qKTa21Bb12SLoq72qfPZEn7uvsLOaAOUowVAfMzuWdi6kgz3SwCKPscOQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-27-2021 010440
+Transaction: create coin
+Coin: 070bea99a2f36f17f7665a677b42476be7a9e5ab.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgChMjOVV2oimNy03v4iC1lQdi7Z+X/fnl5dMDm7t8Hs3aEiSK9MX+iV3UegYXhvvCL8ayk2DHyjqJDbxoHx5B77x8ywH/BRlsCSAE8MrqLn9u0e0YvY2dzRmsV8g2SUYLbNLmB8Ltcdst7BQibFfBE609sfvYmee7DN3T10xML453R4WkZ6s+jzGle19d83F46sQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-27-2021 030051
+Transaction: create coin
+Coin: 48dcc91bd97427e4f9f44f3a5199da21a90de5dc.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkd9a3lGnAy7YKvN4vaHWfbs5RLALrsx7FIs9bVEnzQYINNFcCqOxZ6PYNaPxt1IN7U6TWV54xM9eAHer5IlDpJEna0RauYuJQJIAMQ8QuG7AVM/i7uTsStbONtIicpCJnfg/WHtbVcMmqtEIcxz4PL8Hp+3OQPd4iglWhVvBiAFOPnTrAcbwV01VrM1V4n5zf7p
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 02-27-2021 030153
+Transaction: create coin
+Coin: a17447b277e20e450bece515d4732d2c5d924595.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgB/zBcpSzXmoQ5BbJwj5+giElgBfXH8qEztE3K7reJuA7DVVNY5yU+5P94Fyk8mOweW08L20WkxCDTSeH48Kqg99UutsmdoscCR0KVzucnHSVad3fHJityQg+CmdtutaceL8LACwjmynbWPQOkGXNBPgMkw09buXruv4LMn3XiHYf6kHPMqgQuX8u+qo/jjEPe
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-01-2021 223716
+Transaction: create coin
+Coin: 3d6928b5b2c313331771920e991680c26f466b2d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBbprMsqIpIrVPDQvgwlzd9SpKdsJ5e0GPXfNQHHzqdlpiXQMy0GA446KYSe43MIYZ9XgggcZa/e1vx0vRVfMbJ6c+LuGpSXACSAHWzHforc/IkqA77NOrzixNLkAV9jau8yMlCVoQmkCVkTniTynWKiEh6YQIoeUy0SVVShnxzaXComz+RKImTFvI4OjSFAN5Qg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-01-2021 224146
+Transaction: create coin
+Coin: 7d541ba8ed323e492450c00bb24827d9d012723d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBWKfGTUQVFqYbeCkrWVygCMMtTCudpgfyOeF/4x9f0jRLkih8P6K57VFB3WY6mEOp+r7UKNcp4jbkeKPyhICpxiyO9mcnS5ECSAD7l6a5pVTcTGeQU4KOlTpLly4fAVp4YF4Fq/crJZXze/aB62rbKCLPr/yfUzR0gawFJfaQNfwYjkAY0xZNszI2FAUhDwvETw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-01-2021 224431
+Transaction: create coin
+Coin: 866f57d8458201fc096fd22fb44bdd47439e3b0b.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdAvM5cC49gUQnD3JP0CMuwjk91LlPT2X0Mwk2iTKwXXKRA4aCnTse4FBydL3uRq4iI/SpN2HgCfvvQoM4aHe+P7AGSxHWNZgJIAZShQh6yeSU8J+HondmRYrMwdkdRS8pPDuUvx5mj0yogxOe0GV9IBpZgX46D/80Qy+4wmw6AC4/5VsGL6AIJUjGrzOXsszMC
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 004735
+Transaction: create coin
+Coin: ad358575585f191b1bfe740d20db5f7659d28996.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgCSELx8ToSJqozppVUEKUbiNuY0AIw+ocNCDc7I0pAYf5oPGa22kiNFLnlDNIDsOiK0JCa+SXqb86UC8hEoTawC8ccXZfXw8kCR3NhCmk4CfetNxKXRP2lmbt9Mfx7zc/lTQx82N506nH0nPtdo2KrgXnv9T5S1xhGmY8452PqhYz3N2+co7fl+FZT5YFcK/4/
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 004759
+Transaction: create coin
+Coin: cacc2160b134bcfcd96e3b6aaa860f9edff5d89d.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDqgg7oeoW+HJ0ktt1WIAEqJM6VgjeBQa3Li5RDvh7umiQlX9U3v2hBxTKcFZRWA46p+ySbVtO2IbU6hOvq8fBOD1IxbtBULACSAH9ee24qePuLDfm2tRe0N9w66rmDdYY5BFX362aMUB811GNylVH5EQRRwMmqUseZYW4DgpwTW0KlYxqhVS6CuQLVEwSun8uhQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 024359
+Transaction: create coin
+Coin: 2e0c074849d40ecb3d2a2eb814b5c4c51f3560f3.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDBiwCAshep5eJfe62MCJ+PyV6K46E8/cRKrUO5J0OrUa54MHSA0ZSbTXjDha+EYleuD1ZFUC647IQvMUHbKBFGKJfOJpFB0QCSACUcVasOng1oiMvTePjnRUiifuOP3RGR1Sf5kd2VVpUa5t7g9z872bR1bRqsusAuSY5vpStF6zpnXuEUe0V7oKBSTsSxnqggQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 024537
+Transaction: create coin
+Coin: 77153fb317bcb5fe5e8101a157748ecddbfa21a9.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgBAnk6lD4r5F1cUatpS9QpVjq4iDklWNsMuO9RapCR7J2rCB4zG3FjC/+Mww3gGcR8tzJiNmrLfKrE0sFXOwER4JQMnUD2gJICR0q/f07pQvwE6j8o1JqduxFKjRZwYwgA8zoRRYx5vcG1F37DTfjbxpTB3XfDZsFHek8adMb0MW3iYoT+0UKV4bGHTFaeulvM
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 030239
+Transaction: create coin
+Coin: a48f3482f64880237bf24f0284fde406a8805ca7.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDRQq8TLCv3TTr5GQyg7+tlX4nhQ9HaltySuwR9zdEn+6obXWk44znq3jgnFoIdesSisoM2Dj85KZpVVdCoEWM6Q8ZnosJAvoCSAOAcaDKeGMC3xgyPCJ64NDgsdxG0EhDuSbBy3JdVU6hp/5l/GYHq1w7/z6DcJeGEt3aGIHXpwCNkcVF7oGgJdQmPrZ+ueMMfQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 030305
+Transaction: create coin
+Coin: 326df55fe5b0eeaf82455256e826581578df31d1.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgC79oRhtvUNoKdNdaL3HPDCHf6IkRJXJ84hzStP3Oheee9/2g7XqXQU/NX9t5rKa98TQdWBrhRjJjgAFs2ItTTLpGbLpiygHYCSALz5NPquD/2Dm0C2cD9m9idUxk9/I+8h0XFPXBjWzSkpS32daIpGa+3HIfWeBVZyy1sPklCxQO1bVgtJ6DHy26fgA9m92KWqw==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 041721
+Transaction: create coin
+Coin: 2565586952537b161efdf7f698e6f89a0033fe13.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkd8rAd7/tUu+5mJX+6mvFP3KLGfpPLUYIDZ9R26ib5vzJy278IvNhtwc37tgMV3IBJIamBk4D2B1bhq/3MPuOWNHxvadn0fVAJIAls8gBMep2Ee1TkP1V+KrhyiPp8zDPf03pVVUCjA/wtTZKCjwus7Nc84fjoD30Bk5NfnwI2Le9zPMajXBG4UpvjLWSO/bo0a
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 041731
+Transaction: create coin
+Coin: 4b215745686d3f87a5e8cf9aa7221b70e834f2a8.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCS76gi+fpdZfAbJy5vJ4yQuY24YrNFiP+UFhdqnSrhWdUGUUy0a4b1BJBKyy922NvB1W3TVUSQlGEVCFH7d40Fnnv7xJpH34CSALZHF8AFgTAuN+/9H1N9NSWf6DPoKVWtddrlg/dPr9TwHJg+SpFK/+A2+VtHSr4Sql1Dct1ZzpsZwfcvS+suOQVovIkgexZbQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-02-2021 053249
+Transaction: create coin
+Coin: ddd2e10e351359714a3e6927d3db3d2b210b9103.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkgB4TU306L9ldfMllT74hkwglcpfxqV9+xpC21gFoX7zoMzmpARgBUB0ScFpDGu4PNZQBBbqbE+3st8yB5LFR1kuAfpiEop9qUCR3cLpKRrbnZRQYs4YAvPxXd894PKXreCODx4wufryCAZM8NkvuEajuSMrXjrcsTh7RSKK+X6FX/do6GwUumKwGzCyRG4RpCE
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 023717
+Transaction: create coin
+Coin: ef7f2e4e8d84f3fd44acb161ecf11a8986a371e4.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgCCQa1ucrDf0ask3MUajE+QOMZ/EdB/ITpYyQv3UkYncwkxsyPi5rZLOTaPlWdWhvVDEqtj/aRcXx3Rgq+28kxJCFs0Cdoi6sCSAGH+HU1d0RM4P6bHerB4Meaf+Lp9fJPoORvDEFyY++EHeNiQSzhnG9QEEUfh2cYMQYACwrBw7k83WVPizKLkpRAOLzUQIwiTg==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 023724
+Transaction: create coin
+Coin: 39042ada4a1febcd19981fca26708ab306eabcda.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkdd2vhLynpOUNuH6nriWzsyI672W3xJ1Bf1fZRbyKzCxcbMqfCHSMK+8A9zDtvjLtyCC+vndCYUIdRDldGIbZ9ZzSPqbUZU7QJIA0WSWLtBci/zlHJoTprX3v2epO2e9qDqrh/ZoRGIaSVKM3ag4YsVXu6dNDTksV+jM5qRVBg/fkKGteWqrFIxzFvW7nJCOBg9
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 023730
+Transaction: create coin
+Coin: f398de8d3f63156f02e24cd655dc0338e5092ada.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBCVHofR7nNPwrc/2ZY1wb7d0rzPpfUfV58BCEFxvsGUuaH0TNFe/LDAHVfjPx/KkzNhXJzMHa2FppCyLvLyTiGjpvTPzIrsECSAKsQ0SxN4sEA6DEJazxH23DcnujRuk0q5pK9WoT/RYbY53Vu0vp4mGqyxwF3LMBlkwIahcP1422vZplIGDcmYKpHN7gfClsdQ==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 024441
+Transaction: create coin
+Coin: 2fb65cf21e5fa7047a312d5b123526ac69a8a20e.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgBrU5BUgypZfeBhzhupjKMBSS0eCFEErg2ZckrFpgQSs1NYEQQL9ADdZ97naPc/UZie/ED8lqY4nLJN+7hO87JhRmmuTk9/bMCSAGQe+dtrG9SY1X8rMVVZI+YiqG0jroU9ECJBEBflY7XWeLdwAZBjhFQLKpmSa2jBLGOETwDNnSyFAOEjK6egpRAm9r5sJBf/Q==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 024623
+Transaction: create coin
+Coin: ec48d12520d2e9d1752435b2516dcb843d6a3ebb.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkc/2oTfBubyoye1s691M3z0dnUdFoQPJpbFcIN0ryIwKucuXg6+w3UQvpV6hSIEGl6ORwUfTorkpDkXQUzL0hV5XM04vKZRnwJIAps5XhSPyozDhN6MdBdipwSHNqtkCqU74gv73UcaJ4SrNQwhN6hqHtbsBLzOsuNTvGV6atfmlgsBGCf3aB3+BpYcN1PLWO2K
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 024629
+Transaction: create coin
+Coin: bbbf237ec25c5e0ed506a07c534f3b794c444f90.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGTAkcQ4fwNE9gExaDOZTwjcUbYi87CqceaLj/MOwDYjFa6YIQek5yKD/s/jvKvbkSCokMeqfiEM6PBvZKcCHFq7jaFK1xH406H5gJIA6kuCSPSPC34aRYagqjpjGd5XZVc0IzXJA68bFzJWdbzlJ6KMePRR0WG80xBnmit3YpxR1iGKpnr5aAZ6HMTfFftYjMEvwN1
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 025252
+Transaction: create coin
+Coin: 8ef0789b4cea33423c86f39e521efcba74b24d35.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgDpjgaHAXYYKtXiKF3K96YFX1d3jFHdnIMtfmRUnd29LHbS2Y61sJA3WQaI+cwsrEj/CrVDWKlMiVAD6bwDxUE84scav8cWzYCSAEMsQYnMYhxKm3D9x0JuS7MP4DivKYH8c4ytgLoUTZ89XWnN2M9sZfyTfSAhDgQC2gUfrxvAFvKRuu/ZfTL99gFGY6KMThTNA==
+------------------------------END TRANSACTION-------------------------------
+------------------------------START TRANSACTION------------------------------
+Date: 03-30-2021 025259
+Transaction: create coin
+Coin: f99d0d6d13d9da12e63a3dd83964d8b8f1d793cd.coin
+Address: 1cfef34a03a362b2e3f83b14885501dc
+Verified: MIGUAkgB+25frcuZFKld7fnOYGkfBeu9zRyUzp0soa6wTBkdtP0q7tkjg8cA+6ycl4DkGNA7qkJT8STtFjQSHEx8HSc2IWv74R/Zeh4CSANkxPI4Pg7BT0YDxgDK99DmG7u5t7FM3fktUsp+WZl07UWxb0JjVhWI2a6KMHvwdN57QgmcDCZrPF2EdV9V5QxQX2rFyX7Qdg==
+------------------------------END TRANSACTION-------------------------------
